@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9316,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 13858,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 17030,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9472,
+      "text": "Exchange"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9524,
+      "text": "Docs"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9576,
+      "text": "Stemmen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9628,
+      "text": "Loterij"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 13932,
+      "text": "Ontgrendel Wallet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9730,
+      "text": "Uw %asset% Saldo"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9782,
+      "text": "Totaal %asset% Aanbod"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9834,
+      "text": "OP SLOT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 17024,
+      "text": "Oogst in afwachting"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9938,
+      "text": "Nieuwe beloningen per blok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 13986,
+      "text": "Aantal KEBAB verbrand sinds lancering"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 14002,
+      "text": "Bekijk de Keuken"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10094,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10146,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10198,
+      "text": "GitHub"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10250,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 14032,
+      "text": "Storten"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10354,
+      "text": "Verdien"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 17032,
+      "text": "Stake FLIP tokens om KEBAB te stapelen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 17036,
+      "text": "Stake KEBAB, ontvang KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10612,
+      "text": "Je kunt op elk moment terug wisselen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10662,
+      "text": "%asset% Verdiend"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 17040,
+      "text": "Tokens Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 17256,
+      "text": "Elke keer dat u KEBAB tokens staked en weer unstaked, oogst het contract automatisch uw KEBAB beloning!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10818,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10870,
+      "text": "De Sous Chef kookt een traktatie voor alle KETCHUP holders"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 17008,
+      "text": "KETCHUP Tokens Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10974,
+      "text": "XVS Tokens Verdiend"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11026,
+      "text": "Zet uw KETCHUP vast om tokens van nieuwe projecten te verdienen."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 14570,
+      "text": "Beloningen worden per blok berekend. De totale beloning wordt automatisch verdeeld aan het einde van de farmingperiode van elk project."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11130,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11182,
+      "text": "Komt binnenkort"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11234,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 14626,
+      "text": "Totale Liquiditeit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11334,
+      "text": "Bekijk op BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 14638,
+      "text": "KEBAB prijs"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11434,
+      "text": "%asset% Tokens Verdiend"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 14672,
+      "text": "%num% blokken totdat farming eindigt"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 17048,
+      "text": "Totaal aantal KETCHUP Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13216,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 16788,
+      "text": "Komt binnenkort..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 17012,
+      "text": "Jouw Aandeel"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 17014,
+      "text": "Farming start in %num% Blokken"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 17016,
+      "text": "Geëindigd"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 17018,
+      "text": "Farming stopt in %num% Blokken"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 17020,
+      "text": "Project Site"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 17022,
+      "text": "Unstake KETCHUP"
+    }
+  }
+]

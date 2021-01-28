@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9324,
+      "text": "Gård"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9376,
+      "text": "Insats"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9428,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9480,
+      "text": "Växling"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9532,
+      "text": "Dokument"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9584,
+      "text": "Omröstning"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9636,
+      "text": "Lotteri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9688,
+      "text": "Lås upp plånbok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9738,
+      "text": "Din %asset% balans"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9790,
+      "text": "Total %asset% mängd"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9842,
+      "text": "LÅST"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9894,
+      "text": "Tillgängligt för skörd"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9946,
+      "text": "Nya belöningar per block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9998,
+      "text": "Totalt antal KEBAB sedan starten"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10050,
+      "text": "Besök köket"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10102,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10154,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10206,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10258,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10310,
+      "text": "Insättning"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10362,
+      "text": "Tjäna"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10414,
+      "text": "Sätt in FLIP tokens för att tjäna KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10466,
+      "text": "Sätt in KEBAB, få KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10620,
+      "text": "Du kan växla tillbaka när som helst"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10670,
+      "text": "%asset% Intjänat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10722,
+      "text": "Tokens insatta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 13800,
+      "text": "Varje gång du sätter in eller tar ut KEBAB tokens kommer kontraktet automatiskt skörda KEBAB belöningar åt dig!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10826,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10878,
+      "text": "Sous kocken lagar en godbit för alla KETCHUP ägare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10930,
+      "text": "KETCHUP Tokens insatta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10982,
+      "text": "XVS Tokens tjänade"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11034,
+      "text": "Sätt in dina KETCHUP för att tjäna tokens från nya projekt."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11086,
+      "text": "Belöningar beräknas per block och total belöning kommer automatiskt att skickas ut vid slutet av projektets skördeperiod."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11138,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11190,
+      "text": "Kommer snart"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11242,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11292,
+      "text": "Total likviditet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11342,
+      "text": "Titta på BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11392,
+      "text": "KEBAB pris"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11442,
+      "text": "%asset% Tokens tjänade"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11492,
+      "text": "%num% av block tills skördningen avslutas"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11544,
+      "text": "Totalt antal insatta KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13076,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 13082,
+      "text": "Kommer snart..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 13092,
+      "text": "Din Insats"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 13204,
+      "text": "Odling startar om %num% Block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 13150,
+      "text": "Avslutad"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 13212,
+      "text": "Odling slutar om %num% Block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 13162,
+      "text": "Projektwebbplats"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 13184,
+      "text": "Ta bort KETCHUP insats"
+    }
+  }
+]

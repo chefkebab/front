@@ -1,0 +1,296 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9302,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9354,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9406,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9458,
+      "text": "Exchange"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9510,
+      "text": "Dokumenter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9562,
+      "text": "Stemmeret"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9614,
+      "text": "Lotteri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9666,
+      "text": "Åben Wallet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9718,
+      "text": "Din %asset% Værdi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9768,
+      "text": "Total %asset% Forsyning"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9820,
+      "text": "LÅST"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9872,
+      "text": "Afventende gevinst"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9924,
+      "text": "Ny belønning per block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9976,
+      "text": "Total KEBAB brændt siden lanceringen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10028,
+      "text": "Kig i køkkenet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10080,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10132,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10184,
+      "text": "Git hub"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10236,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10288,
+      "text": "Indbetal"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10340,
+      "text": "Tjen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10392,
+      "text": "Stake FLIP tokens for at stack KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10444,
+      "text": "Stake KEBAB, få KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10598,
+      "text": "Du kan altid veksle dem tilbage"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10650,
+      "text": "%asset% Tjent"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10700,
+      "text": "Tokens Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10752,
+      "text": "Hver gang du stake eller vælger ikke at stake KEBAB tokens, vil kontrakten automatisk høste KEBAB gevinster til dig!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10804,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10856,
+      "text": "Sous Chefen er i gang med at bage nye lækre godbidder til alle der holder KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10908,
+      "text": "KETCHUP Tokens Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10960,
+      "text": "XVS Tokens Tjent"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11012,
+      "text": "Stake dine KETCHUP for at tjene tokens fra nye projekter."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11064,
+      "text": "Belønninger vil blive udregnet ved hver blok og den samle totale gevinst vil blive fordelt automatisk ved afslutning af hvert projekt's mining periode."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11116,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11168,
+      "text": "Kommer snart"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11220,
+      "text": "AYP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11270,
+      "text": "Total Likviditet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11320,
+      "text": "Se på BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11370,
+      "text": "KEBAB pris"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11420,
+      "text": "%asset% Tokens Tjent"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11470,
+      "text": "%num% blocks indtil farming slutter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11522,
+      "text": "Total KETCHUP Staked"
+    }
+  }
+]

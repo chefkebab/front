@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9308,
+      "text": "Viljele"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9360,
+      "text": "Panostaminen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9412,
+      "text": "KETCHUP Pooli"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9464,
+      "text": "Vaihtokauppa"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9516,
+      "text": "Dokumentit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9568,
+      "text": "Äänestäminen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9620,
+      "text": "Arvonta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9672,
+      "text": "Avaa Lompakko"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9722,
+      "text": "Sinun %asset% saldo"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9774,
+      "text": "Täysi %asset% varanto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9826,
+      "text": "Lukittu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9878,
+      "text": "Sadonkorjuu Vireillä"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9930,
+      "text": "Uusia palkkioita per lohko"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9982,
+      "text": "Poltettujen KEBAB polettien kokonaismäärä julkaisusta lähtien"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10034,
+      "text": "Katsasta keittiö"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10086,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10138,
+      "text": "Blogi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10190,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10242,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10294,
+      "text": "Talletus"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10346,
+      "text": "Ansaitse"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10398,
+      "text": "Panosta FLIP poletteja KEBAB polettejen pinoamiseksi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10450,
+      "text": "Panosta KEBAB: a, saa KETCHUP: ia."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10604,
+      "text": "Voit koska vain vaihtaa takaisin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10654,
+      "text": "%asset% ansaittu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10706,
+      "text": "Poletteja Panostettu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10758,
+      "text": "Joka kerta kun panostat ja otat ulos KEBAB tokenien panostuksen, sopimus automaagisesti korjaa KEBAB palkintojen sadon sinulle!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10810,
+      "text": "KETCHUP Pooli"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10862,
+      "text": "Apukokki kokkailee herkkuja kaikille KETCHUP: in omistajille"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10914,
+      "text": "KETCHUP tokeneita panostettu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10966,
+      "text": "XVS tokeneita ansaittu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11018,
+      "text": "Panosta KETCHUP polettisi ansaitaksesi poletteja uusista projekteista."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11070,
+      "text": "Palkkiot lasketaan jokaisessa lohkossa ja palkkioiden kokonaismäärä jaetaan automaattisesti jokaisen projektin viljelysperiodin lopussa."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11122,
+      "text": "Pooli"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11174,
+      "text": "Tulossa pian"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11226,
+      "text": "Vuosituotto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11276,
+      "text": "Likviditeetin kokonaismäärä"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11326,
+      "text": "Katso Bscanissa"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11376,
+      "text": "KEBAB hinta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11426,
+      "text": "%asset% poletteja ansaittu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11476,
+      "text": "%num% lohkoja kunnes viljelys loppuu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11528,
+      "text": "Panostettujen KETCHUPien kokonaismäärä"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 19466,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 19468,
+      "text": "Tulossa pian..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 19470,
+      "text": "Sinun panoksesi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 19472,
+      "text": "Viljely alkaa %num% lohkoissa"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 19474,
+      "text": "Loppunut"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 18688,
+      "text": "Viljely päättyy %num% lohkoihin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 19476,
+      "text": "Projektisivusto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 18686,
+      "text": "Vapauta KETCHUP"
+    }
+  }
+]

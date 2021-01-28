@@ -1,0 +1,1262 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9042,
+      "text": "ファーム"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9046,
+      "text": "ステーキング"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9048,
+      "text": "シロッププール"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9050,
+      "text": "通貨の交換"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9052,
+      "text": "資料"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9054,
+      "text": "投票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 16712,
+      "text": "宝くじ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 18380,
+      "text": "ウォレットを解錠する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9060,
+      "text": "あなたの%asset%の残高"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9062,
+      "text": "%asset%の総供給"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9064,
+      "text": "ロック中"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9066,
+      "text": "収穫待ち"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9068,
+      "text": "ブロックごとの新しい報酬"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9070,
+      "text": "サービス開始以来，バーンされた総KEBAB数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 16718,
+      "text": "キッチンを見る"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 9074,
+      "text": "テレグラム"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 9078,
+      "text": "ブログ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 9080,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 9082,
+      "text": "ツイッター"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 9084,
+      "text": "入金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 9086,
+      "text": "獲得"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 9090,
+      "text": "FLIPトークンをステーキングして，KEBABを積み上げる"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 21306,
+      "text": "ケーキをステーク，KETCHUP獲得。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 9102,
+      "text": "いつでも元に戻せます"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 9104,
+      "text": "%asset% 獲得済"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 9106,
+      "text": "ステーキング中のトークン"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 9108,
+      "text": "KEBABトークンをステーキングおよびステーキングの解除をする毎に，コントラクトにより自動的にKEBAB報酬が収穫されます！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 9110,
+      "text": "シロッププール"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 9112,
+      "text": "SousシェフがKETCHUPの所有者の皆様にごちそうをつくっています"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 9116,
+      "text": "ステーキング中のKETCHUPトークン"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 9118,
+      "text": "獲得済みXVSトークン"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 9120,
+      "text": "KETCHUPをステーキングして新しいプロジェクトのトークンを獲得しましょう。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 9122,
+      "text": "報酬はブロック毎に計算され，全報酬はそれぞれのプロジェクトのファーミング期間の終了時に自動的に配布されます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 9126,
+      "text": "プール"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 9128,
+      "text": "近日公開"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 16728,
+      "text": "年利"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 9132,
+      "text": "総流動性量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 9134,
+      "text": "BscScan上で確認する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 9136,
+      "text": "ケーキの価格"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 9140,
+      "text": "ステーキング中の%asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 9142,
+      "text": "ファーミング終了まで%num%ブロック"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 9146,
+      "text": "ステーキング中の全シロップ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 14598,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 14604,
+      "text": "近日公開..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 14612,
+      "text": "自分のステーキング"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 14634,
+      "text": "ファーミングは%num%ブロック後に始まります"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 14642,
+      "text": "終了済み"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 14650,
+      "text": "ファーミングは%num%ブロック後に終了します"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 14696,
+      "text": "プロジェクトサイト"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 14842,
+      "text": "KETCHUPをステーキング解除する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 20588,
+      "text": "KETCHUP保有者は毎日KEBABブロック排出量の25％を比例配分（1ブロックあたり10個のKEBAB）し、報酬はブロックごとに分配されます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 20590,
+      "text": "新しいトークン獲得のために、%ASSET% をステークする。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 20594,
+      "text": "報酬はブロックごとに計算されます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 20596,
+      "text": "合計"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 20598,
+      "text": "終了"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 20772,
+      "text": "プロジェクトサイトを見る"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 20602,
+      "text": "あなたのプロジェクト？ 👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 20604,
+      "text": "トークン用のプールを作成"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 20606,
+      "text": "今すぐ応募"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 20788,
+      "text": "ラウンド1：購入"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 21048,
+      "text": "勝ち取れ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 20612,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 21108,
+      "text": "KEBABを使ってチケットを購入します。このKEBABは当選資金になります。チケットの購入は抽選の約30分前に終了します。チケット番号の、2つ、3つ、もしくは4つの全ての数字が、当選番号の数字および桁と一致した場合に賞金を獲得できます。頑張ってください！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 20616,
+      "text": "今回のラウンドのあなたのチケットの合計"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 20618,
+      "text": "チケットを購入"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 20620,
+      "text": "チケットを確認"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 20622,
+      "text": "チケット購入までの残り時間の目安"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 20626,
+      "text": "終了"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 20628,
+      "text": "最新の当選番号"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 20632,
+      "text": "4つの番号が一致するチケット"
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 20634,
+      "text": "3つの番号が一致するチケット"
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 20636,
+      "text": "2つの番号が一致するチケット"
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 20638,
+      "text": "最近の当選番号をエクスポート"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 20640,
+      "text": "購入するチケット数を入力"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 20642,
+      "text": "最大"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 20644,
+      "text": "%num% KEBAB 利用可能"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 20774,
+      "text": "KEBAB数は10の倍数である必要があります"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 20648,
+      "text": "1 チケット = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 20820,
+      "text": "支払う額： %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 20652,
+      "text": "キャンセル"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 20654,
+      "text": "確認"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 20656,
+      "text": "警告"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 20672,
+      "text": "宝くじの購入はキャンセルできません。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 20660,
+      "text": "チケット購入に使用したKEBABは返却されません。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 20662,
+      "text": "チケットは1回の抽選でのみ利用可能であり、抽選後にバーンされます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 20664,
+      "text": "チケットを購入しても当選を保証するものではありません。リスクをご理解いただいた上でご参加ください。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 20778,
+      "text": "理解しました"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 20674,
+      "text": "チケットの購入はキャンセルできません。チケット購入後のKEBABの返却はできません。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 20780,
+      "text": "賞金の請求"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 20782,
+      "text": "請求されるKEBABの賞金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 20784,
+      "text": "ラウンド2：請求"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 20592,
+      "text": "いつでもステークを解除できます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 20768,
+      "text": "確認待ち"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 20770,
+      "text": "自分のチケット (合計：%TICKETS%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 20822,
+      "text": "次回の抽選開始までの目安時間"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 20764,
+      "text": "KEBABを承認"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21120,
+      "text": "KETCHUP保有者は毎日KEBABブロック排出量の40％を比例配分(1ブロックあたり10個のKEBAB) し、報酬はブロックごとに分配されます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 500,
+      "translationId": 21366,
+      "text": "IFO: Intitial Farm Offerings"
+    }
+  },
+  {
+    "data": {
+      "stringId": 502,
+      "translationId": 22760,
+      "text": "新しいトークン販売モデルで新しいトークンを購入。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 504,
+      "translationId": 22764,
+      "text": "KEBAB-BNBのLPトークンを使用して，新しいトークンの代金を支払うことになります。これは流動性プールにKEBABとBNBを同量投資して参加する必要があることを意味します。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 506,
+      "translationId": 21372,
+      "text": "KEBAB-BNBのLPを入手 >"
+    }
+  },
+  {
+    "data": {
+      "stringId": 508,
+      "translationId": 21374,
+      "text": "プロジェクトはBNBを取得し、PanKEBABSwapはKEBABをバーンします。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 510,
+      "translationId": 21376,
+      "text": "トークンを手に入れる。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 512,
+      "translationId": 21378,
+      "text": "自分のIFOを立ち上げてみませんか？"
+    }
+  },
+  {
+    "data": {
+      "stringId": 514,
+      "translationId": 21380,
+      "text": "Binance Smart Chainで最も利用されているAMMプロジェクトかつ流動性プロバイダーであるPanKEBABSwapを利用してプロジェクトを立ち上げ、BSCで最も活発で急速に成長しているコミュニティにあなたのトークンを直接届けることができます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 516,
+      "translationId": 21382,
+      "text": "ローンチに応募する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 518,
+      "translationId": 23464,
+      "text": "HARDは以下のブロックまで毎週分配されます"
+    }
+  },
+  {
+    "data": {
+      "stringId": 520,
+      "translationId": 21386,
+      "text": "コミュニティ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 522,
+      "translationId": 21388,
+      "text": "コア"
+    }
+  },
+  {
+    "data": {
+      "stringId": 526,
+      "translationId": 21392,
+      "text": "利用可能"
+    }
+  },
+  {
+    "data": {
+      "stringId": 528,
+      "translationId": 21808,
+      "text": "自分のウォレット"
+    }
+  },
+  {
+    "data": {
+      "stringId": 530,
+      "translationId": 21396,
+      "text": "サインアウト"
+    }
+  },
+  {
+    "data": {
+      "stringId": 532,
+      "translationId": 21788,
+      "text": "全て (%count%) 収穫"
+    }
+  },
+  {
+    "data": {
+      "stringId": 534,
+      "translationId": 21398,
+      "text": "KEBAB統計"
+    }
+  },
+  {
+    "data": {
+      "stringId": 536,
+      "translationId": 21400,
+      "text": "KEBABの総供給量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 538,
+      "translationId": 21402,
+      "text": "KEBABの総焼却量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 540,
+      "translationId": 21404,
+      "text": "新規KEBAB量/ブロック"
+    }
+  },
+  {
+    "data": {
+      "stringId": 542,
+      "translationId": 21810,
+      "text": "ファームとステーキング"
+    }
+  },
+  {
+    "data": {
+      "stringId": 544,
+      "translationId": 23466,
+      "text": "収穫待ちKEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 546,
+      "translationId": 21410,
+      "text": "ウォレットのKEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 548,
+      "translationId": 21818,
+      "text": "KEBABを収集中"
+    }
+  },
+  {
+    "data": {
+      "stringId": 550,
+      "translationId": 21414,
+      "text": "あなたの宝くじの賞金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 552,
+      "translationId": 23468,
+      "text": "収集待ちKEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 554,
+      "translationId": 21418,
+      "text": "このラウンドの当たりの合計"
+    }
+  },
+  {
+    "data": {
+      "stringId": 556,
+      "translationId": 21420,
+      "text": "賞金を集める"
+    }
+  },
+  {
+    "data": {
+      "stringId": 558,
+      "translationId": 21424,
+      "text": "チケットを購入"
+    }
+  },
+  {
+    "data": {
+      "stringId": 562,
+      "translationId": 21814,
+      "text": "収穫"
+    }
+  },
+  {
+    "data": {
+      "stringId": 564,
+      "translationId": 21430,
+      "text": "承認する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 566,
+      "translationId": 21432,
+      "text": "投票する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 568,
+      "translationId": 21434,
+      "text": "選択する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 570,
+      "translationId": 21436,
+      "text": "このラウンドの勝利数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 572,
+      "translationId": 21438,
+      "text": "最新の当選番号"
+    }
+  },
+  {
+    "data": {
+      "stringId": 574,
+      "translationId": 21790,
+      "text": "ステーキングプール"
+    }
+  },
+  {
+    "data": {
+      "stringId": 576,
+      "translationId": 21792,
+      "text": "パンケーキスワップ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 578,
+      "translationId": 22490,
+      "text": "Binance Smart ChainのNo. 1 AMM・イールドファーム"
+    }
+  },
+  {
+    "data": {
+      "stringId": 580,
+      "translationId": 21800,
+      "text": "KEBABをステークして新しいトークンを稼ぐ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 582,
+      "translationId": 22048,
+      "text": "開始時間"
+    }
+  },
+  {
+    "data": {
+      "stringId": 584,
+      "translationId": 22050,
+      "text": "販売量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 586,
+      "translationId": 22052,
+      "text": "バーンされるKEBAB (USD)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 588,
+      "translationId": 22054,
+      "text": "ステークを解除"
+    }
+  },
+  {
+    "data": {
+      "stringId": 590,
+      "translationId": 22056,
+      "text": "⭐ LPトークンをステーキングおよびステーキングの解除をする毎に，コントラクトにより自動的にKEBAB報酬が収穫されます！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 592,
+      "translationId": 22058,
+      "text": "参加方法"
+    }
+  },
+  {
+    "data": {
+      "stringId": 594,
+      "translationId": 22060,
+      "text": "販売前"
+    }
+  },
+  {
+    "data": {
+      "stringId": 596,
+      "translationId": 22062,
+      "text": "KEBABとBNBトークンを購入してください"
+    }
+  },
+  {
+    "data": {
+      "stringId": 598,
+      "translationId": 22064,
+      "text": "KEBABとBNBの流動性を追加し，KEBAB-BNB LPトークンを手に入れてください"
+    }
+  },
+  {
+    "data": {
+      "stringId": 600,
+      "translationId": 22066,
+      "text": "販売期間中"
+    }
+  },
+  {
+    "data": {
+      "stringId": 602,
+      "translationId": 22070,
+      "text": "販売開始中に，IFOトークンを購入するためのKEBAB-LPトークンを投入してください"
+    }
+  },
+  {
+    "data": {
+      "stringId": 604,
+      "translationId": 22072,
+      "text": "販売後"
+    }
+  },
+  {
+    "data": {
+      "stringId": 606,
+      "translationId": 22074,
+      "text": "使用されなかった購入資金と共に，購入したトークンを獲得してください"
+    }
+  },
+  {
+    "data": {
+      "stringId": 608,
+      "translationId": 22076,
+      "text": "完了です!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 610,
+      "translationId": 22078,
+      "text": "詳細"
+    }
+  },
+  {
+    "data": {
+      "stringId": 612,
+      "translationId": 22826,
+      "text": "接続"
+    }
+  },
+  {
+    "data": {
+      "stringId": 614,
+      "translationId": 22828,
+      "text": "KEBABと交換，もしくはコレクションに！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 616,
+      "translationId": 22834,
+      "text": "NFTを勝ち取りたい方は以下から申し込み。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 618,
+      "translationId": 23472,
+      "text": "当選チャンスへ申し込み"
+    }
+  },
+  {
+    "data": {
+      "stringId": 620,
+      "translationId": 22836,
+      "text": "詳細を見る"
+    }
+  },
+  {
+    "data": {
+      "stringId": 622,
+      "translationId": 22838,
+      "text": "NFTを交換"
+    }
+  },
+  {
+    "data": {
+      "stringId": 624,
+      "translationId": 22840,
+      "text": "交換"
+    }
+  },
+  {
+    "data": {
+      "stringId": 626,
+      "translationId": 22842,
+      "text": "受け取ります"
+    }
+  },
+  {
+    "data": {
+      "stringId": 628,
+      "translationId": 22844,
+      "text": "KEBABを受け取るためにこのNFTを交換すると，そのNFTはもう永久に入手できなくなります！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 630,
+      "translationId": 22846,
+      "text": "NFTを獲得"
+    }
+  },
+  {
+    "data": {
+      "stringId": 632,
+      "translationId": 22848,
+      "text": "仕組み"
+    }
+  },
+  {
+    "data": {
+      "stringId": 634,
+      "translationId": 22850,
+      "text": "獲得期間が始まると，当たった人はこのページでNFTを獲得することができます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 636,
+      "translationId": 22852,
+      "text": "もし当選しなかった場合，獲得はできません。\n次はきっと当たりますように！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 638,
+      "translationId": 22854,
+      "text": "当選者は自分のNFTを以下に記載の期日までKEBABに交換することができます。もしそれまでにNFTを交換しなくても，心配しないでください：そのNFTは，あなたのウォレットに保持されます。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 640,
+      "translationId": 22856,
+      "text": "当選者はどのように選ばれるの？"
+    }
+  },
+  {
+    "data": {
+      "stringId": 642,
+      "translationId": 22858,
+      "text": "当選者はランダムに選ばれます！幸運を祈ります！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 644,
+      "translationId": 22860,
+      "text": "当選チャンスへ申し込み"
+    }
+  },
+  {
+    "data": {
+      "stringId": 646,
+      "translationId": 22862,
+      "text": "交換した場合の価格"
+    }
+  },
+  {
+    "data": {
+      "stringId": 648,
+      "translationId": 22864,
+      "text": "ミントされた数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 650,
+      "translationId": 22866,
+      "text": "バーンされた数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 652,
+      "translationId": 22868,
+      "text": "このNFTを獲得する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 654,
+      "translationId": 22870,
+      "text": "KEBABに交換する"
+    }
+  },
+  {
+    "data": {
+      "stringId": 656,
+      "translationId": 22872,
+      "text": "ロード中…"
+    }
+  },
+  {
+    "data": {
+      "stringId": 658,
+      "translationId": 22874,
+      "text": "詳細"
+    }
+  },
+  {
+    "data": {
+      "stringId": 660,
+      "translationId": 22876,
+      "text": "当選しました！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 662,
+      "translationId": 22878,
+      "text": "以下からNFTを獲得！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 664,
+      "translationId": 22880,
+      "text": "まで交換可能"
+    }
+  },
+  {
+    "data": {
+      "stringId": 666,
+      "translationId": 22884,
+      "text": "ウォレットが接続されていません"
+    }
+  },
+  {
+    "data": {
+      "stringId": 668,
+      "translationId": 22886,
+      "text": "接続してNFTが当たったか見る！"
+    }
+  }
+]

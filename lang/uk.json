@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9328,
+      "text": "Ферма"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 13058,
+      "text": "Стейкінг"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9432,
+      "text": "Пул KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9484,
+      "text": "Обмін"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 15756,
+      "text": "Документація"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9588,
+      "text": "Голосування"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9640,
+      "text": "Лотерея"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 13078,
+      "text": "Розблокувати гаманець"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 15758,
+      "text": "Ваш баланс %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 15760,
+      "text": "Загальна пропозиція %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9846,
+      "text": "ЗАБЛОКОВАНО"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 15866,
+      "text": "Очікує збору"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 15766,
+      "text": "Винагорода за новий блок"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 10002,
+      "text": "Загальна кількість спаленого KEBAB з моменту запуску"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 13102,
+      "text": "Оглянути кухню"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10106,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10158,
+      "text": "Блог"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10210,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10262,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10314,
+      "text": "Депозит"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10366,
+      "text": "Заробіток"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 15774,
+      "text": "Застейкати FLIP-токени для отриманя KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 15780,
+      "text": "Стейкате KEBAB — отримуйте KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 15788,
+      "text": "Ви можете здійснити зворотній обмін у будь-який момент"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 13128,
+      "text": "%asset% зароблено"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 15792,
+      "text": "Токенів в стейкінгу"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 13142,
+      "text": "Кожен раз, коли ви вкладаєте чи знімаєте KEBAB, контракт автоматично збирає для вас нагороди KEBAB!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 13148,
+      "text": "Пул KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 13158,
+      "text": "Су-шеф готує ласощі для всіх власників KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 15800,
+      "text": "KETCHUP в стейкінгу"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 13180,
+      "text": "Зароблено XVS"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 15810,
+      "text": "Застейкайте KETCHUP, щоб заробляти токени нових проєктів."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 13206,
+      "text": "Винагорода розраховується за блок, а загальна винагорода розподіляється автоматично в кінці фармінгу кожного проєкту."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11142,
+      "text": "Пул"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11194,
+      "text": "Незабаром"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 13220,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 13224,
+      "text": "Загальна ліквідність"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11346,
+      "text": "Переглянути на BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11396,
+      "text": "Ціна KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 13230,
+      "text": "%asset% зароблено"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 13240,
+      "text": "%num% блоків до завершення фармінгу"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 15820,
+      "text": "Загальна кількість KETCHUP в стейкінгу"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 12998,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 12990,
+      "text": "Незабаром..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 15828,
+      "text": "Вами застейкано"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 15832,
+      "text": "Фармінг почнеться через %num% блоків"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 12972,
+      "text": "Завершено"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 15838,
+      "text": "Фармінг завершиться через %num% блоків"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 12932,
+      "text": "Сайт проєкту"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 15842,
+      "text": "Повернути KETCHUP зі стейкінгу"
+    }
+  }
+]

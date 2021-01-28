@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 18652,
+      "text": "फार्म"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 18654,
+      "text": "स्टेकिंग"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 18656,
+      "text": "सिरप पूल"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 18658,
+      "text": "एक्सचेंज"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 18660,
+      "text": "डॉक्युमेंट"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 18662,
+      "text": "मतदान"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 18664,
+      "text": "लॉटरी"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 21070,
+      "text": "वॉलेट खोलें"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9754,
+      "text": "आपका  %asset% बैलेंस"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 18670,
+      "text": "कूल %asset% सप्लाई"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 18672,
+      "text": "बंद"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 21096,
+      "text": "पेंडिंग कटाई"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 21072,
+      "text": "प्रति ब्लॉक नए रिवार्ड्स"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 21074,
+      "text": "लॉन्च के बाद से कुल जलाए गए केक"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10066,
+      "text": "रसोई  देखे"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 21076,
+      "text": "टेलीग्राम"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10170,
+      "text": "ब्लौग"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10222,
+      "text": "गिट्टहब"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10274,
+      "text": "ट्विटर"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10326,
+      "text": "जमा "
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 21078,
+      "text": "कमाएं"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 21080,
+      "text": "फ्लिप टोकन स्टेक करें और केक टोकन पाएं"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 21082,
+      "text": "केक स्टेक करें, सिरप पाएं"
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 14384,
+      "text": "आप किसी भी समय वापस बदली कर सकते हैं"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 14396,
+      "text": "%asset% अर्जित किया है"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 21084,
+      "text": "दाँव पर लगे हुए टोकन"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 21086,
+      "text": "जब भी आप केक टोकन को स्टैक या अनस्टेक करेंगे कॉन्ट्रैक्ट आपके लिए केक की कटाई कर देता है"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10842,
+      "text": "सिरप पूल"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 21088,
+      "text": "एक चटनी जो रसोइया बना रहा हे सभी सीरप होल्डर्स के लिए है"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 21092,
+      "text": "लगे हुए सीरप टोकन"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 21094,
+      "text": "अर्जित XVS टोकन"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11050,
+      "text": "नई परियोजनाओं के टोकन अर्जित करने के लिए अपने KETCHUP को दाँव पर रखें"
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11102,
+      "text": "पुरस्कारों की गणना प्रति  ब्‍लॉक्‌ की जाएगी और कुल पुरस्कार प्रत्येक परियोजना की कृषि अवधि के अंत में स्वचालित रूप से वितरित किए जाएंगे।"
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11154,
+      "text": "पूल"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 21098,
+      "text": "जल्द आ रहा हे"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11256,
+      "text": "वार्षिक वापसी"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11306,
+      "text": "आपकी लिक्विडिटी"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11356,
+      "text": "BscScan पर देखें"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11406,
+      "text": " केक की कीमत"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 14546,
+      "text": "%asset% से अर्जित किए गए टोकन"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11508,
+      "text": "खेती खत्म होनी केलीय शेष खंड मैथा%num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 21100,
+      "text": "कुल सीरप दांव पर लगे हैं"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13806,
+      "text": "1 केक = 1 सिरप"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 13814,
+      "text": "जल्द आ रहा है"
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 13872,
+      "text": "आपका दाँव"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 13936,
+      "text": "खेती शुरू होगी %num% ब्लॉक"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 13940,
+      "text": "खत्म"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 13980,
+      "text": "खेती खत्म होगी %num% ब्लॉक"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 14020,
+      "text": "परियोजना साइट"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 21102,
+      "text": "अनस्टेक सीरप"
+    }
+  }
+]

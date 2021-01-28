@@ -1,0 +1,1262 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9326,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 15732,
+      "text": "Fon Yatırma"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9430,
+      "text": "KETCHUP Havuzu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 12486,
+      "text": "Al-Sat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9534,
+      "text": "Dökümanlar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9586,
+      "text": "Oylama"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9638,
+      "text": "Çekiliş"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9690,
+      "text": "Cüzdanın Kilidini Aç"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9740,
+      "text": "Bakiyen: %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9792,
+      "text": "Toplam arz %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9844,
+      "text": "KİLİTLİ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9896,
+      "text": "Bekleyen hasat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9948,
+      "text": "Blok başına yeni ödül"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 12482,
+      "text": "Başlangıçtan itibaren yakılan KEBAB adedi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10052,
+      "text": "Mutfağı Gör"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10104,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10156,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10208,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10260,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10312,
+      "text": "Yatırma"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10364,
+      "text": "Kazan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 15706,
+      "text": "KEBAB biriktirmek için FLIP jetonu yatırın"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 15628,
+      "text": "KEBAB fonu yatırın, KETCHUP alın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10622,
+      "text": "İstediğin zaman geri değiştirebilirsin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10672,
+      "text": "%asset% Kazanıldı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 15730,
+      "text": "Fonlanan Jetonlar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 21924,
+      "text": "KEBAB Jetonlarınızı her yatırıp, tekrar çektiğinizde, kontrat sizin için KEBAB ödüllerini otomatik olarak toplayacaktır!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10828,
+      "text": "KETCHUP HAVUZU"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10880,
+      "text": "Sous Chef, tüm KETCHUP sahipleri için bir ikram hazırlıyor"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 15740,
+      "text": "Adet KETCHUP Jetonu Yatırıldı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 15704,
+      "text": "Adet XVS Jetonu Kazanıldı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11036,
+      "text": "Yeni projelerden token kazanmak için KETCHUP stake edin."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 15190,
+      "text": "Her projenin tarım döneminin sonunda, ödüller blok başına hesaplanacak ve toplam ödüller otomatik olarak dağıtılacaktır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11140,
+      "text": "Havuz"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11192,
+      "text": "Yakında"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11244,
+      "text": "Yıllık Getiri Oranı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11294,
+      "text": "Toplam Likidite"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11344,
+      "text": "BscScan'de Görüntüle"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11394,
+      "text": "KEBAB Fiyatı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 15718,
+      "text": "%asset% Jeton Kazanıldı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 15526,
+      "text": "Farm bitene kadar kalan blok sayısı: %num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11546,
+      "text": "Fon olarak yatırılan toplam KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 12474,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 12476,
+      "text": "Yakında..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 15174,
+      "text": "Senin Fonun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 15510,
+      "text": "Farm %num% Blok sonra başlar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 12478,
+      "text": "Tamamlandı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 17636,
+      "text": "Farm %num% Blok sonra biter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 12480,
+      "text": "Proje Web Sitesi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 17638,
+      "text": "KETCHUP fonlarını çek"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 19820,
+      "text": "KETCHUP sahipleri her gün KEBAB blok emisyonlarının % 25'ini oransal olarak paylaşırlar (blok başına 10 KEBAB), Ödüller her blokta bir dağıtılır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 21300,
+      "text": "Yeni jetonlar kazanmak için KETCHUP yatırın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 19708,
+      "text": "Ödüller blok başına olacak şekilde hesaplanır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 19704,
+      "text": "Toplam"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 20020,
+      "text": "Tamamlandı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 19726,
+      "text": "Proje web sitesi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 19802,
+      "text": "Sizin Projeniz? 👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 19804,
+      "text": "Jetonunuz için bir havuz oluşturun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 19730,
+      "text": "Şimdi başvur"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 19808,
+      "text": "1. Tur: HAZIRLIK"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 19806,
+      "text": "DAĞITILACAK ÖDÜL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 19740,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 19822,
+      "text": "Çekiliş havuzunda toplanacak ödül miktarına katkıda bulunmak için KEBAB harcayarak bilet satın alın. Bilet alımları çekilişten yaklaşık 30 dakika önce kapanır. Her bir biletinize ait numaralardan 2, 3 veya 4'ü, çekilişi kazanmış olan numaralar ve pozisyonları ile eşleşirse ödüller kazanın! İyi şanslar!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 19742,
+      "text": "Bu tur için toplam biletiniz"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 19690,
+      "text": "Bilet al"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 19696,
+      "text": "Biletlerini gör"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 19800,
+      "text": "Bilet almak için kalan yaklaşık süre"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 19686,
+      "text": "Kapat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 19744,
+      "text": "Kazanan Son Numaralar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 19746,
+      "text": "4 numarayla eşleşen biletler:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 19748,
+      "text": "3 numarayla eşleşen biletler:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 19750,
+      "text": "2 numarayla eşleşen biletler:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 19752,
+      "text": "Son kazanan numaraları dışa aktar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 19810,
+      "text": "Satın almak istediğiniz bilet miktarını girin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 19684,
+      "text": "Maksimum"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 19754,
+      "text": "Uygun KEBAB %num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 19812,
+      "text": "Girdiğiniz KEBAB miktarı 10 veya katları olmalıdır"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 19798,
+      "text": "1 Bilet = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 20202,
+      "text": "Harcanacak: %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 19762,
+      "text": "Vazgeç"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 19764,
+      "text": "Onayla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 19680,
+      "text": "Dikkat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 19768,
+      "text": "Tüm bilet satışları son satıştır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 19770,
+      "text": "Bilet satın alırken harcadığınız KEBAB için geri ödeme yapılmayacaktır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 20234,
+      "text": "Biletler sadece satın alındığı çekiliş için geçerlidir ve çekiliş bittikten sonra yakılacaklardır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 20236,
+      "text": "Bilet almış olmanız size kazanacağınızı garanti etmez. Lütfen, bu riski anladıysanız çekilişe katılın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 19678,
+      "text": "Anladım"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 19794,
+      "text": "Bilet satışları son satıştır. Bilet satın alırken kullandığınız KEBAB miktarı size geri ödenmeyecektir."
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 19782,
+      "text": "Ödülleri topla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 19784,
+      "text": "Toplanacak KEBAB ödülleri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 19792,
+      "text": "2. Tur: TOPLANIYOR"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 19706,
+      "text": "İstediğin zaman geri çekebilirsin."
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 20732,
+      "text": "Onay Bekleniyor"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 20730,
+      "text": "Biletlerim (Toplam: %TICKETS%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 20734,
+      "text": "Bir sonraki çekiliş başlamadan önce kalan yaklaşık süre"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 20736,
+      "text": "KEBAB Onayı Ver"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21298,
+      "text": "KETCHUP sahipleri her gün KEBAB blok emisyonlarının % 40'ını oransal olarak paylaşırlar (blok başına 10 KEBAB), Ödüller her blokta bir dağıtılır."
+    }
+  },
+  {
+    "data": {
+      "stringId": 500,
+      "translationId": 21508,
+      "text": "IFO: Intitial Farm Offerings"
+    }
+  },
+  {
+    "data": {
+      "stringId": 502,
+      "translationId": 21514,
+      "text": "Yepyeni bir jeton satış modeli ile yeni jetonlar satın alın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 504,
+      "translationId": 21516,
+      "text": "Yeni jetonlar edinmek için KEBAB-BNB LP jetonlarını kullanarak ödeme yapacaksınız, bu da katılmak için bir likidite havuzunda eşit miktarda KEBAB ve BNB jetonlarından yatırmanız gerektiği anlamına gelir."
+    }
+  },
+  {
+    "data": {
+      "stringId": 506,
+      "translationId": 21518,
+      "text": "KEBAB-BNB LP alın>"
+    }
+  },
+  {
+    "data": {
+      "stringId": 508,
+      "translationId": 21520,
+      "text": "Proje BNB jetonları alırken, PanKEBABSwap KEBAB jetonlarını yakar."
+    }
+  },
+  {
+    "data": {
+      "stringId": 510,
+      "translationId": 21530,
+      "text": "Jetonları alırsınız."
+    }
+  },
+  {
+    "data": {
+      "stringId": 512,
+      "translationId": 21532,
+      "text": "Kendi IFO'nuzu başlatmak ister misiniz?"
+    }
+  },
+  {
+    "data": {
+      "stringId": 514,
+      "translationId": 21540,
+      "text": "Projenizi doğrudan BSC'deki en aktif ve hızla büyüyen topluluğuna getirmek için, Binance Smart Chain’in en çok kullanılan AMM projesi ve likidite sağlayıcısı olan PanKEBABSwap ile projenizi başlatın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 516,
+      "translationId": 21504,
+      "text": "Başvurun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 518,
+      "translationId": 21500,
+      "text": "HARD dağıtımlarının, öncesinde haftalık olarak yapılacağı en son blok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 520,
+      "translationId": 21498,
+      "text": "Topluluk"
+    }
+  },
+  {
+    "data": {
+      "stringId": 522,
+      "translationId": 21496,
+      "text": "Core"
+    }
+  },
+  {
+    "data": {
+      "stringId": 526,
+      "translationId": 21492,
+      "text": "Uygun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 528,
+      "translationId": 21490,
+      "text": "Cüzdanım"
+    }
+  },
+  {
+    "data": {
+      "stringId": 530,
+      "translationId": 21488,
+      "text": "Çıkış Yap"
+    }
+  },
+  {
+    "data": {
+      "stringId": 532,
+      "translationId": 21486,
+      "text": "Tümünü topla (%count%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 534,
+      "translationId": 21484,
+      "text": "KEBAB İstatistikleri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 536,
+      "translationId": 21482,
+      "text": "Toplam KEBAB Arzı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 538,
+      "translationId": 21480,
+      "text": "Yakılan Toplam KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 540,
+      "translationId": 21478,
+      "text": "Blok başına yeni KEBAB miktarı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 542,
+      "translationId": 21550,
+      "text": "Farms & Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 544,
+      "translationId": 21476,
+      "text": "Toplanabilecek KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 546,
+      "translationId": 21474,
+      "text": "Cüzdandaki KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 548,
+      "translationId": 21472,
+      "text": "KEBAB Toplanıyor"
+    }
+  },
+  {
+    "data": {
+      "stringId": 550,
+      "translationId": 21470,
+      "text": "Çekilişten Kazandıklarınız"
+    }
+  },
+  {
+    "data": {
+      "stringId": 552,
+      "translationId": 21468,
+      "text": "Toplanabilecek KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 554,
+      "translationId": 21466,
+      "text": "Bu Turdaki Toplam İkramiye"
+    }
+  },
+  {
+    "data": {
+      "stringId": 556,
+      "translationId": 21464,
+      "text": "Ödülleri Topla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 558,
+      "translationId": 21462,
+      "text": "Bilet Al"
+    }
+  },
+  {
+    "data": {
+      "stringId": 562,
+      "translationId": 21458,
+      "text": "Topla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 564,
+      "translationId": 21456,
+      "text": "Onayla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 566,
+      "translationId": 21454,
+      "text": "Oylama"
+    }
+  },
+  {
+    "data": {
+      "stringId": 568,
+      "translationId": 21452,
+      "text": "Seçiniz"
+    }
+  },
+  {
+    "data": {
+      "stringId": 570,
+      "translationId": 21448,
+      "text": "Bu Turda Kazanmış Olan Bilet Numaraları"
+    }
+  },
+  {
+    "data": {
+      "stringId": 572,
+      "translationId": 21450,
+      "text": "Kazanan Son Biletlerin Numaraları"
+    }
+  },
+  {
+    "data": {
+      "stringId": 574,
+      "translationId": 21546,
+      "text": "Staking Havuzu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 576,
+      "translationId": 21544,
+      "text": "PanKEBABSwap"
+    }
+  },
+  {
+    "data": {
+      "stringId": 578,
+      "translationId": 21560,
+      "text": "Binance Smart Chain'in 1 numaralı AMM ve Yield Farm platformu."
+    }
+  },
+  {
+    "data": {
+      "stringId": 580,
+      "translationId": 21566,
+      "text": "Yeni jetonlar kazanmak için KEBAB yatırın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 582,
+      "translationId": 21922,
+      "text": "Başlama Zamanı"
+    }
+  },
+  {
+    "data": {
+      "stringId": 584,
+      "translationId": 21920,
+      "text": "Satışta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 586,
+      "translationId": 21918,
+      "text": "Yakılacak KEBAB (USD)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 588,
+      "translationId": 21916,
+      "text": "Fonu Çek"
+    }
+  },
+  {
+    "data": {
+      "stringId": 590,
+      "translationId": 21914,
+      "text": "⭐️ KEBAB Jetonlarınızı her yatırıp, tekrar çektiğinizde, kontrat sizin için otomatik olarak KEBAB ödüllerinizi toplayacaktır!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 592,
+      "translationId": 22094,
+      "text": "Nasıl Katılınır"
+    }
+  },
+  {
+    "data": {
+      "stringId": 594,
+      "translationId": 22092,
+      "text": "Satış Öncesi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 596,
+      "translationId": 22096,
+      "text": "KEBAB ve BNB jetonları satın alın"
+    }
+  },
+  {
+    "data": {
+      "stringId": 598,
+      "translationId": 22098,
+      "text": "KEBAB ve BNB için likidite ekleyerek KEBAB-BNB LP jetonlarını alın"
+    }
+  },
+  {
+    "data": {
+      "stringId": 600,
+      "translationId": 22090,
+      "text": "Satış Esnasında"
+    }
+  },
+  {
+    "data": {
+      "stringId": 602,
+      "translationId": 22100,
+      "text": "Satış devam ederken, KEBAB-LP jetonlarınızı IFO jetonlarını satın almak için kullanın"
+    }
+  },
+  {
+    "data": {
+      "stringId": 604,
+      "translationId": 22088,
+      "text": "Satış Sonrası"
+    }
+  },
+  {
+    "data": {
+      "stringId": 606,
+      "translationId": 22102,
+      "text": "Satın aldığınız jetonlarınızı, harcanmamış fonlarınızla birlikte geri alın."
+    }
+  },
+  {
+    "data": {
+      "stringId": 608,
+      "translationId": 22086,
+      "text": "Tamamlandı!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 610,
+      "translationId": 22084,
+      "text": "Devamını Oku"
+    }
+  },
+  {
+    "data": {
+      "stringId": 612,
+      "translationId": 23256,
+      "text": "Bağlan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 614,
+      "translationId": 23266,
+      "text": "KEBAB ile takas edin ya da koleksiyonunuzda saklayın!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 616,
+      "translationId": 23268,
+      "text": "Eğer NFT kazanmakla ilgileniyorsanız aşağıdan kaydolun."
+    }
+  },
+  {
+    "data": {
+      "stringId": 618,
+      "translationId": 23264,
+      "text": "Kazanma şansı elde etmek için kayıt olun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 620,
+      "translationId": 23262,
+      "text": "Daha fazla bilgi edin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 622,
+      "translationId": 23270,
+      "text": "NFT ile takas edin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 624,
+      "translationId": 23272,
+      "text": "Takasla"
+    }
+  },
+  {
+    "data": {
+      "stringId": 626,
+      "translationId": 23274,
+      "text": "Alacaksınız"
+    }
+  },
+  {
+    "data": {
+      "stringId": 628,
+      "translationId": 23276,
+      "text": "KEBAB almak için bu NFT'yi takas ettiğinizde, bu NFT'ye erişiminizi sonsuza kadar kaybedeceksiniz!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 630,
+      "translationId": 23258,
+      "text": "NFT'yi al"
+    }
+  },
+  {
+    "data": {
+      "stringId": 632,
+      "translationId": 23260,
+      "text": "Nasıl çalışıyor"
+    }
+  },
+  {
+    "data": {
+      "stringId": 634,
+      "translationId": 23278,
+      "text": "Kazananlar, NFT edinme dönemi başladığında bu sayfadan bir NFT seçip alabilecekler."
+    }
+  },
+  {
+    "data": {
+      "stringId": 636,
+      "translationId": 23280,
+      "text": "Eğer kazananlar arasında seçilmezseniz, NFT talebinde bulunamazsınız. Bir sonraki sefere bol şans!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 638,
+      "translationId": 23236,
+      "text": "Kazananlar, aşağıda belirtilmiş son tarihe kadar NFT'lerini belirli bir KEBAB değeri ile takas edebilirler. NFT'nizi takas etmezseniz endişelenmeyin, NFT'nizi yine de cüzdanınızda tutabileceksiniz!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 640,
+      "translationId": 23230,
+      "text": "Kazananlar nasıl seçiliyor?"
+    }
+  },
+  {
+    "data": {
+      "stringId": 642,
+      "translationId": 23232,
+      "text": "Kazananlar rastgele seçilir! İyi şanslar!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 644,
+      "translationId": 23234,
+      "text": "Kazanma şansı elde etmek için kayıt olun"
+    }
+  },
+  {
+    "data": {
+      "stringId": 646,
+      "translationId": 23238,
+      "text": "Takas değeri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 648,
+      "translationId": 23240,
+      "text": "Basılan miktar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 650,
+      "translationId": 23242,
+      "text": "Yakılan miktar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 652,
+      "translationId": 23244,
+      "text": "Bu NFT'yi edinin"
+    }
+  },
+  {
+    "data": {
+      "stringId": 654,
+      "translationId": 23246,
+      "text": "KEBAB ile takas et"
+    }
+  },
+  {
+    "data": {
+      "stringId": 656,
+      "translationId": 23248,
+      "text": "Yükleniyor…"
+    }
+  },
+  {
+    "data": {
+      "stringId": 658,
+      "translationId": 23226,
+      "text": "Detaylar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 660,
+      "translationId": 23224,
+      "text": "Kazandınız!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 662,
+      "translationId": 23252,
+      "text": "Aşağıdaki seçenekler arasından bir NFT'yi edinin!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 664,
+      "translationId": 23228,
+      "text": "Takas edilebileceği son tarih"
+    }
+  },
+  {
+    "data": {
+      "stringId": 666,
+      "translationId": 23254,
+      "text": "Cüzdan Bağlantısı Kesildi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 668,
+      "translationId": 23220,
+      "text": "NFT kazanıp kazanmadığını görmek için bağlan!"
+    }
+  }
+]

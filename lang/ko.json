@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9314,
+      "text": "파밍"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9366,
+      "text": "스테이킹"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9418,
+      "text": "시럽 풀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9470,
+      "text": "교환"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9522,
+      "text": "문서"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9574,
+      "text": "투표"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9626,
+      "text": "로또"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9678,
+      "text": "지갑 연결"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9728,
+      "text": "당신의 %asset% 잔고"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9780,
+      "text": "총 %asset% 공급"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9832,
+      "text": "잠김"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9884,
+      "text": "수확 중"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9936,
+      "text": "블록 당 신규 보상"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9988,
+      "text": "지금까지 총 소각된 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10040,
+      "text": "부엌 보기"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10092,
+      "text": "텔레그램"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10144,
+      "text": "블로그"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10196,
+      "text": "깃헙"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10248,
+      "text": "트위터"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10300,
+      "text": "예치"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10352,
+      "text": "수익"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10404,
+      "text": "KEBAB를 얻기 위해 FLIP 토큰을 예치"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10456,
+      "text": "KEBAB를 예치하고 KETCHUP를 얻기"
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10610,
+      "text": "언제든지 스왑할 수 있습니다"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10660,
+      "text": "%asset% 벌어들인"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10712,
+      "text": "예치된 토큰"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10764,
+      "text": "당신이 KEBAB 토큰을 예치하고 해지할 때마다, 계약은 자동으로 KEBAB 보상을 당신에게 지급할 것이다!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10816,
+      "text": "시럽 풀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10868,
+      "text": "수셰프는 모든 KETCHUP 홀더들을 위한 요리를 준비하고 있다."
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10920,
+      "text": "예치된 KETCHUP 토큰"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10972,
+      "text": "벌어들인 XVS 토큰"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11024,
+      "text": "새로운 프로젝트의 토큰을 얻기 위해 시럽을 예치하세요."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11076,
+      "text": "보상은 블록별로 산정되며, 프로젝트별 파밍기간이 끝나면 총 보상이 자동으로 배분됩니다."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11128,
+      "text": "풀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11180,
+      "text": "Coming soon"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11232,
+      "text": "연이율"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11282,
+      "text": "총 유동성"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11332,
+      "text": "BscScan에서 보기"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11382,
+      "text": "KEBAB 가격"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11432,
+      "text": "%asset% 벌어들인 토큰"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11482,
+      "text": "%num% 파밍이 끝날 때까지의 블록"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11534,
+      "text": "총 예치된 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 14902,
+      "text": "1 케잌(KEBAB) = 1 시럽(KETCHUP)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 14912,
+      "text": "곧 공개 됩니다."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 15024,
+      "text": "귀하의 예치(Stake)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 14934,
+      "text": "파밍(Farming)은 %num% 블록 때 시작 됩니다."
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 14936,
+      "text": "완료됨"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 14950,
+      "text": "파밍(Farming)은 %num% 블록 때 종료 됩니다."
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 14954,
+      "text": "프로젝스 사이트"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 15898,
+      "text": "시럽(KETCHUP) 반환"
+    }
+  }
+]

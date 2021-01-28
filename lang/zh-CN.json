@@ -1,0 +1,1262 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9330,
+      "text": "农场"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9382,
+      "text": "质押"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9434,
+      "text": "KETCHUP资金池"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9486,
+      "text": "兑换"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9538,
+      "text": "文档"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9590,
+      "text": "投票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9642,
+      "text": "彩票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9694,
+      "text": "解锁钱包"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9744,
+      "text": "您的%asset%余额"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9796,
+      "text": "%asset%总供应量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9848,
+      "text": "已锁定"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9900,
+      "text": "等待收割"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9952,
+      "text": "每区块的新奖励"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 10004,
+      "text": "自推出起，KEBAB总燃烧量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10056,
+      "text": "查看厨房"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10108,
+      "text": "电报"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10160,
+      "text": "博客"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10212,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10264,
+      "text": "推特"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10316,
+      "text": "充值"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10368,
+      "text": "赚取"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10420,
+      "text": "质押FLIP代币以堆叠KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10472,
+      "text": "质押KEBAB，得到KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10626,
+      "text": "您能于任何时间内换回"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10676,
+      "text": "已赚取的%asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10728,
+      "text": "已质押的代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10780,
+      "text": "每当您质押与取出KEBAB代币时，智能合约将自动地为您收割KEBAB奖励！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10832,
+      "text": "KETCHUP资金池"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10884,
+      "text": "Sous厨师正为所有的KETCHUP持有者烹饪着神秘料理"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10936,
+      "text": "已质押的KETCHUP代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10988,
+      "text": "已赚取的XVS代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11040,
+      "text": "质押您的KETCHUP以赚取新项目的代币。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11092,
+      "text": "奖励将在每个区块进行计算。总奖励将在每个项目挖矿时期的尾声时自动地进行分发"
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11144,
+      "text": "资金池"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11196,
+      "text": "即将来临"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11248,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11298,
+      "text": "总流动性"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11348,
+      "text": "在BscScan上查看"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11398,
+      "text": "KEBAB价格"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11448,
+      "text": "已赚取%asset%代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11498,
+      "text": "距离挖矿完毕，还剩%num%区块"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11550,
+      "text": "总质押KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 11564,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 17830,
+      "text": "即将来临。。。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 17840,
+      "text": "您的质押品"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 17834,
+      "text": "挖矿将在%num%区块后开始"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 17832,
+      "text": "已完结"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 17836,
+      "text": "挖矿将在%num%区块后结束"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 17842,
+      "text": "项目网站"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 17844,
+      "text": "取回KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 20392,
+      "text": "KETCHUP持有者将按比例分得每天25%的KEBAB区块奖励（每区块10 KEBAB），奖励将于每区块分发。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 21126,
+      "text": "质押KETCHUP以赚取新代币。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 20398,
+      "text": "奖励将于每区块来计算。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 20410,
+      "text": "总共"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 20400,
+      "text": "结束"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 20402,
+      "text": "查看项目网站"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 20404,
+      "text": "您的项目？👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 20506,
+      "text": "为您的代币创建池子"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 20406,
+      "text": "现在申请"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 20412,
+      "text": "第一回合：购买"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 20414,
+      "text": "赢取"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 20416,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 20514,
+      "text": "消耗KEBAB以购买彩票，并为赌注池贡献。彩票购买估计将于抽奖前30分钟结束。若您的彩票号码中的2、3或4个号码对中开彩号码及它们的位置，您将赢取奖金！祝您好运！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 20420,
+      "text": "您这回合的总彩票数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 20422,
+      "text": "购买彩票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 20424,
+      "text": "查看您的彩票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 20474,
+      "text": "购买彩票的估计剩余时间"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 20430,
+      "text": "关闭"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 20516,
+      "text": "往期开彩成绩"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 20478,
+      "text": "对中4个号码的彩票："
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 20480,
+      "text": "对中3个号码的彩票："
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 20482,
+      "text": "对中2个号码的彩票："
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 20548,
+      "text": "导出往期开彩成绩"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 20468,
+      "text": "输入购买彩票的数量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 20460,
+      "text": "最大值"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 20462,
+      "text": "%num% 可用KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 20466,
+      "text": "您的金额必须是10 KEBAB的倍数"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 20434,
+      "text": "1 彩票 = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 20464,
+      "text": "您将花费：%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 20448,
+      "text": "取消"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 20446,
+      "text": "确认"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 20444,
+      "text": "警告"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 20454,
+      "text": "彩票购买是最终的。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 20458,
+      "text": "在您使用KEBAB来购买彩票后，您的KEBAB将无法归还。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 20452,
+      "text": "彩票只在购买后的回合有效。在该回合的抽奖后，该彩票将被焚毁。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 20450,
+      "text": "购买彩票并不保证您可以赢取任何奖金。请您在了解其中风险后，才参与其中。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 20436,
+      "text": "我明白"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 20456,
+      "text": "彩票购买是最终的。购买彩票后，您的KEBAB是无法归还的。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 20442,
+      "text": "领取奖金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 20440,
+      "text": "待领取的KEBAB奖金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 20438,
+      "text": "第二回合：领取"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 20396,
+      "text": "您可以于任何时间内取回。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 20798,
+      "text": "等待确认"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 20796,
+      "text": "我的彩票（总共：%TICKETS%）"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 20800,
+      "text": "下一次彩票开始的估计时间"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 20802,
+      "text": "批准KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21290,
+      "text": "KETCHUP持有者将按比例分得每天40%的KEBAB区块奖励（每区块10 KEBAB），奖励将于每区块分发。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 500,
+      "translationId": 23398,
+      "text": "IFO：首次挖矿发行"
+    }
+  },
+  {
+    "data": {
+      "stringId": 502,
+      "translationId": 22516,
+      "text": "使用崭新的代币销售模型以购买新代币。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 504,
+      "translationId": 22518,
+      "text": "您将以KEBAB-BNB池代币来支付新的代币。这也说明您需于流动性资金池中质押同等金额的KEBAB及BNB来参与。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 506,
+      "translationId": 22608,
+      "text": "取得KEBAB-BNB池代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 508,
+      "translationId": 22528,
+      "text": "该项目取得BNB，而PanKEBABSwap则焚毁KEBAB。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 510,
+      "translationId": 22532,
+      "text": "您得到代币。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 512,
+      "translationId": 22610,
+      "text": "想要发起您自己的IFO？"
+    }
+  },
+  {
+    "data": {
+      "stringId": 514,
+      "translationId": 22530,
+      "text": "与PanKEBABSwap发起您的项目，币安智能链上最常被使用的AMM项目及流动性提供者。让您的代币直接展现于一群在币安智能链上最活跃且发展迅速的社区前。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 516,
+      "translationId": 22534,
+      "text": "申请发起"
+    }
+  },
+  {
+    "data": {
+      "stringId": 518,
+      "translationId": 22536,
+      "text": "HARD将在每周被分发直到区块"
+    }
+  },
+  {
+    "data": {
+      "stringId": 520,
+      "translationId": 22538,
+      "text": "社区"
+    }
+  },
+  {
+    "data": {
+      "stringId": 522,
+      "translationId": 22540,
+      "text": "核心"
+    }
+  },
+  {
+    "data": {
+      "stringId": 526,
+      "translationId": 22542,
+      "text": "可用"
+    }
+  },
+  {
+    "data": {
+      "stringId": 528,
+      "translationId": 22544,
+      "text": "我的钱包"
+    }
+  },
+  {
+    "data": {
+      "stringId": 530,
+      "translationId": 22546,
+      "text": "登出"
+    }
+  },
+  {
+    "data": {
+      "stringId": 532,
+      "translationId": 22548,
+      "text": "收割所有（%count%）"
+    }
+  },
+  {
+    "data": {
+      "stringId": 534,
+      "translationId": 22550,
+      "text": "KEBAB的统计数据"
+    }
+  },
+  {
+    "data": {
+      "stringId": 536,
+      "translationId": 22552,
+      "text": "KEBAB总供应量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 538,
+      "translationId": 22522,
+      "text": "KEBAB总焚毁量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 540,
+      "translationId": 22554,
+      "text": "新KEBAB/区块"
+    }
+  },
+  {
+    "data": {
+      "stringId": 542,
+      "translationId": 22626,
+      "text": "挖矿&质押"
+    }
+  },
+  {
+    "data": {
+      "stringId": 544,
+      "translationId": 22574,
+      "text": "待收割的KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 546,
+      "translationId": 22556,
+      "text": "钱包中的KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 548,
+      "translationId": 22558,
+      "text": "收集这KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 550,
+      "translationId": 22616,
+      "text": "您的彩票奖金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 552,
+      "translationId": 22560,
+      "text": "待收集的KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 554,
+      "translationId": 22562,
+      "text": "这回合的总头奖"
+    }
+  },
+  {
+    "data": {
+      "stringId": 556,
+      "translationId": 22614,
+      "text": "收集奖金"
+    }
+  },
+  {
+    "data": {
+      "stringId": 558,
+      "translationId": 22564,
+      "text": "购买彩票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 562,
+      "translationId": 22566,
+      "text": "收割"
+    }
+  },
+  {
+    "data": {
+      "stringId": 564,
+      "translationId": 22568,
+      "text": "批准"
+    }
+  },
+  {
+    "data": {
+      "stringId": 566,
+      "translationId": 22570,
+      "text": "投票"
+    }
+  },
+  {
+    "data": {
+      "stringId": 568,
+      "translationId": 22572,
+      "text": "选择"
+    }
+  },
+  {
+    "data": {
+      "stringId": 570,
+      "translationId": 22620,
+      "text": "这局的开彩成绩"
+    }
+  },
+  {
+    "data": {
+      "stringId": 572,
+      "translationId": 22612,
+      "text": "往期开彩成绩"
+    }
+  },
+  {
+    "data": {
+      "stringId": 574,
+      "translationId": 22578,
+      "text": "质押池"
+    }
+  },
+  {
+    "data": {
+      "stringId": 576,
+      "translationId": 22526,
+      "text": "PanKEBABSwap"
+    }
+  },
+  {
+    "data": {
+      "stringId": 578,
+      "translationId": 22582,
+      "text": "币安智能链上的#1的AMM及质押挖矿。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 580,
+      "translationId": 22584,
+      "text": "质押KEBAB以赚取新代币。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 582,
+      "translationId": 22576,
+      "text": "发起时间"
+    }
+  },
+  {
+    "data": {
+      "stringId": 584,
+      "translationId": 22622,
+      "text": "待售"
+    }
+  },
+  {
+    "data": {
+      "stringId": 586,
+      "translationId": 22524,
+      "text": "将焚毁的KEBAB（USD）"
+    }
+  },
+  {
+    "data": {
+      "stringId": 588,
+      "translationId": 22586,
+      "text": "取回"
+    }
+  },
+  {
+    "data": {
+      "stringId": 590,
+      "translationId": 22624,
+      "text": "⭐️ 每当您质押于取回池代币时，智能合约将自动地为您收割KEBAB奖励！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 592,
+      "translationId": 22588,
+      "text": "如何参与"
+    }
+  },
+  {
+    "data": {
+      "stringId": 594,
+      "translationId": 22590,
+      "text": "销售开始前"
+    }
+  },
+  {
+    "data": {
+      "stringId": 596,
+      "translationId": 22592,
+      "text": "购买KEBAB和BNB代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 598,
+      "translationId": 22594,
+      "text": "添加KEBAB及BNB流动性以取得KEBAB-BNB池代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 600,
+      "translationId": 22596,
+      "text": "销售开始后"
+    }
+  },
+  {
+    "data": {
+      "stringId": 602,
+      "translationId": 22598,
+      "text": "当销售开始时，提交您的KEBAB池代币来购买IFO代币"
+    }
+  },
+  {
+    "data": {
+      "stringId": 604,
+      "translationId": 22600,
+      "text": "销售结束后"
+    }
+  },
+  {
+    "data": {
+      "stringId": 606,
+      "translationId": 22602,
+      "text": "领取您所购买的代币以及任何未花费的资金。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 608,
+      "translationId": 22604,
+      "text": "完成！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 610,
+      "translationId": 22606,
+      "text": "阅读更多"
+    }
+  },
+  {
+    "data": {
+      "stringId": 612,
+      "translationId": 23340,
+      "text": "连接"
+    }
+  },
+  {
+    "data": {
+      "stringId": 614,
+      "translationId": 23390,
+      "text": "当场兑换成KEBAB，或留下当您的收藏品！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 616,
+      "translationId": 23392,
+      "text": "为您想赢取以下其中一个的兴趣而注册。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 618,
+      "translationId": 23388,
+      "text": "为一次赢取的机会而注册"
+    }
+  },
+  {
+    "data": {
+      "stringId": 620,
+      "translationId": 23386,
+      "text": "了解更多"
+    }
+  },
+  {
+    "data": {
+      "stringId": 622,
+      "translationId": 23384,
+      "text": "当场兑换NFT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 624,
+      "translationId": 23382,
+      "text": "当场兑换"
+    }
+  },
+  {
+    "data": {
+      "stringId": 626,
+      "translationId": 23378,
+      "text": "您将得到"
+    }
+  },
+  {
+    "data": {
+      "stringId": 628,
+      "translationId": 23458,
+      "text": "当您当场兑换这NFT并接收KEBAB时，您将永远地失去它！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 630,
+      "translationId": 23342,
+      "text": "领取 NFT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 632,
+      "translationId": 23344,
+      "text": "它如何运作"
+    }
+  },
+  {
+    "data": {
+      "stringId": 634,
+      "translationId": 23394,
+      "text": "当领取环节开始时，优胜者将能领取这一页的一个NFT。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 636,
+      "translationId": 23460,
+      "text": "若您没未选中，您将无法领取。祝您下次更加好运！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 638,
+      "translationId": 23376,
+      "text": "优胜者可以把他们的NFT当场兑换成一定的KEBAB价值，直到如下的到期日。如果您没有当场兑换您的NFT，那么别担心：您可以将其珍藏在钱包里！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 640,
+      "translationId": 23364,
+      "text": "优胜者如何被选取？"
+    }
+  },
+  {
+    "data": {
+      "stringId": 642,
+      "translationId": 23366,
+      "text": "优胜者将被随机选取！祝您好运！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 644,
+      "translationId": 23368,
+      "text": "为一次赢取的机会而注册"
+    }
+  },
+  {
+    "data": {
+      "stringId": 646,
+      "translationId": 23370,
+      "text": "当场兑换的价值"
+    }
+  },
+  {
+    "data": {
+      "stringId": 648,
+      "translationId": 23362,
+      "text": "已生成数量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 650,
+      "translationId": 23356,
+      "text": "已焚毁数量"
+    }
+  },
+  {
+    "data": {
+      "stringId": 652,
+      "translationId": 23358,
+      "text": "领取这NFT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 654,
+      "translationId": 23372,
+      "text": "当场兑换成KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 656,
+      "translationId": 23354,
+      "text": "加载中。。。"
+    }
+  },
+  {
+    "data": {
+      "stringId": 658,
+      "translationId": 23352,
+      "text": "详情"
+    }
+  },
+  {
+    "data": {
+      "stringId": 660,
+      "translationId": 23346,
+      "text": "您赢了！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 662,
+      "translationId": 23360,
+      "text": "从下方选项，领取一个NFT！"
+    }
+  },
+  {
+    "data": {
+      "stringId": 664,
+      "translationId": 23374,
+      "text": "可以当场兑换直到"
+    }
+  },
+  {
+    "data": {
+      "stringId": 666,
+      "translationId": 23348,
+      "text": "钱包未连接"
+    }
+  },
+  {
+    "data": {
+      "stringId": 668,
+      "translationId": 23350,
+      "text": "连接以查看您是否赢取了NFT！"
+    }
+  }
+]

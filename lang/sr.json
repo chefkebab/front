@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 17126,
+      "text": "Farm/Узгој"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 17128,
+      "text": "Улагање"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 17130,
+      "text": "KETCHUP Базен"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 17132,
+      "text": "Мењачница"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 17134,
+      "text": "Документи"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 17136,
+      "text": "Гласање"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 17138,
+      "text": "Лутрија"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 17140,
+      "text": "Откључајте новчаник"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 17142,
+      "text": "Tvoja %sredstva% Balans"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 17144,
+      "text": "Ваша% имовина% понуде"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 17146,
+      "text": "Закључано"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 17148,
+      "text": "До бербе"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 17150,
+      "text": "Нове награде по блоку"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 17152,
+      "text": "Укупно ЦАКЕ спаљено од лансирања"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 17154,
+      "text": "Погледај кухињу"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10100,
+      "text": "Телеграм"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10152,
+      "text": "Блог"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10204,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10256,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10308,
+      "text": "Depozit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 17156,
+      "text": "Зарадите"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 17158,
+      "text": "Уложите FLIP токене да бисте нагомилали KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10464,
+      "text": "Uloži KEBAB da dobiješ KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10618,
+      "text": "možete zameniti nazad bilo kada"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 17178,
+      "text": "Средства% Зарађено%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 17182,
+      "text": "Уложени жетони"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 17186,
+      "text": "Сваки пут кад уложиш / извадиш ЦАКЕ токен уговор ауто-магично жање ЦАКЕ награде за тебе!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 17190,
+      "text": "KETCHUP БАЗЕН"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 17204,
+      "text": "Заменик управника припрема посластицу за све власнике KETCHUP-а"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 17206,
+      "text": "Уложени KETCHUP токени"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 17208,
+      "text": "XVS зарађени токени"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 17212,
+      "text": "Унесите своје KETCHUP токене да би зарадио токене из новог пројекта."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 17214,
+      "text": "Награде ће бити израчунате по блоку и све награде ће бити дистрибуиране аутоматски на крају фарминг периода сваког пројекта."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 17216,
+      "text": "Базен"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 17218,
+      "text": "Ускоро"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11240,
+      "text": "АПИ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 17220,
+      "text": "Укупна ликвидност"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 17222,
+      "text": "Поглед на BscScanu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 17224,
+      "text": "KEBAB цена"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 17226,
+      "text": "% средства% зарађени жетони"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 17228,
+      "text": "% број% блокова до завршетка фарминга / узгоја"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11542,
+      "text": "Totalno uloženo KETCHUP-a"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 17090,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 17092,
+      "text": "Долази ускоро..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 17094,
+      "text": "Ваш улог"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 17110,
+      "text": "Farming/узгој почиње у %број% блокова"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 17106,
+      "text": "Готов"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 17116,
+      "text": "Farming/узгој се завршава у %број% блокова"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 17120,
+      "text": "Место пројекта"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 17124,
+      "text": "Одузети KETCHUP"
+    }
+  }
+]

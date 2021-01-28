@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 14142,
+      "text": "Ernten (Farm)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9356,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9408,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9460,
+      "text": "Börse"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9512,
+      "text": "Dokumente"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9564,
+      "text": "Abstimmung"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9616,
+      "text": "Lotterie"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9668,
+      "text": "Wallet entsperren"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9026,
+      "text": "Dein %asset% Guthaben"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 14404,
+      "text": "%asset% Gesamtvorrat (Total Supply)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9822,
+      "text": "GESPERRT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 14420,
+      "text": "Anstehende Ernte (harves)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9926,
+      "text": "Neue Belohnungen pro Block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9978,
+      "text": "Vernichtete KEBAB seit dem Start"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10030,
+      "text": "Besuche die Küche"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10082,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10134,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10186,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10238,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10290,
+      "text": "Einzahlen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10342,
+      "text": "Verdienen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 14006,
+      "text": "Stake FLIP um KEBAB zu bekommen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10446,
+      "text": "Stake KEBAB um KETCHUP zu bekommen."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10600,
+      "text": "Du kannst jederzeit wieder zurücktauschen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 9032,
+      "text": "%asset% verdient"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 14120,
+      "text": "Gesammelte Tokens (Staked)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 14462,
+      "text": "Jedes mal, wenn du KEBAB Tokens einzahlst (stake) und abhebst (unstake), wird der Smart Contract automatisch deine KEBAB Belohnung für dich ernten!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10806,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 14514,
+      "text": "Der Souschef kocht gerade was Schönes für alle KETCHUP Holder"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 14556,
+      "text": "Einbezahlte (staked) KETCHUP Tokens"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10962,
+      "text": "XVS Tokens verdient"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11014,
+      "text": "Stake deinen KETCHUP tokens, um Tokens neuer Projekte zu verdienen."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 14606,
+      "text": "Die Belohnungen werden pro Block berechnet und am Ende der Farming Periode der einzelnen Projekte automatisch verteilt."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11118,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11170,
+      "text": "Bald verfügbar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11222,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11272,
+      "text": "Gesamte Liquidität"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11322,
+      "text": "Auf BscScan anzeigen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11372,
+      "text": "KEBAB Preis"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11422,
+      "text": "%asset% Tokens verdient"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11472,
+      "text": "%num% Blöcke, bis das Farming endet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 14644,
+      "text": "KETCHUP Gesamt gesammelt (staked)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 16418,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 16426,
+      "text": "Demnächst..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 16518,
+      "text": "Ihr Einsatz"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 16454,
+      "text": "Farming beginnt in %num% Blocks"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 16458,
+      "text": "Beendet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 16462,
+      "text": "Farming endet in %num% Blocks"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 16464,
+      "text": "Projekt Seite"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 16550,
+      "text": "KETCHUP auslösen"
+    }
+  }
+]

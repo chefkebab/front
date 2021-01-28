@@ -1,0 +1,681 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9334,
+      "text": "Canh tác"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9386,
+      "text": "Đặt cọc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9438,
+      "text": "Vốn chung KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9490,
+      "text": "Giao dịch"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9542,
+      "text": "Các tài liệu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9594,
+      "text": "Bỏ phiếu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9646,
+      "text": "Xổ số"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9698,
+      "text": "Mở khóa ví"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9748,
+      "text": "Số dư %asset% của bạn"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9800,
+      "text": "Tổng nguồn cung %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9852,
+      "text": "ĐÃ KHOÁ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9904,
+      "text": "Đang chờ thu hoạch"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9956,
+      "text": "Phần thưởng mỗi khối"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 10008,
+      "text": "Tổng số KEBAB đã đốt từ khi khởi chạy"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10060,
+      "text": "Xem Bếp ăn"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10112,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10164,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10216,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10268,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10320,
+      "text": "Nạp tiền"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10372,
+      "text": "Kiếm tiền"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10424,
+      "text": "Đặt cọc đồng tiền FLIP để nhận KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10476,
+      "text": "Đặt cọc KEBAB, nhận KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10630,
+      "text": "Bạn có thể hoán đổi bất kỳ lúc nào"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10680,
+      "text": "Nhận được %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10732,
+      "text": "Số tiền đã đặt cọc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10784,
+      "text": "Bất cứ khi nào bạn đặt cọc hoặc hủy đặt cọc KEBAB, hợp đồng thông minh sẽ tự động thu hoạch phần thưởng KEBAB cho bạn!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10836,
+      "text": "Vốn chung KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 13200,
+      "text": "Đầu bếp Sous đang nấu một món ăn cho tất cả chủ sở hữu KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10940,
+      "text": "Số Token KETCHUP đã đặt cọc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10992,
+      "text": "Số XVS đã kiếm được"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11044,
+      "text": "Đặt cọc KETCHUP của bạn để nhận đồng tiền của các dự án mới."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11096,
+      "text": "Các phần thưởng sẽ được tính toán cho mỗi khối và tổng phần thưởng sẽ được phân bổ tự động khi kết thúc thời hạn đào."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 21266,
+      "text": "Nhóm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11200,
+      "text": "Sắp ra mắt"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 21270,
+      "text": "Lãi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11302,
+      "text": "Tổng thanh khoản"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 21272,
+      "text": "Xem trên BSC"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11402,
+      "text": "Giá KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 21274,
+      "text": "Đã kiếm được %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 21276,
+      "text": "Quá trình khai thác sẽ kết thúc sau %num% khối"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 21278,
+      "text": "Tổng KETCHUP đã được góp"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13556,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 14320,
+      "text": "Sắp ra mắt..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 21280,
+      "text": "Bạn góp"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 21282,
+      "text": "Canh tác diễn ra trong %num% khối"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 21284,
+      "text": "Kết thúc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 21286,
+      "text": "Canh tác sẽ kết thúc trong %num% khối"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 14560,
+      "text": "Trang dự án"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 21288,
+      "text": "Rút KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 21134,
+      "text": "Những người nắm giữ KETCHUP sẽ chia nhau 25% khối lượng KEBAB phát hành mỗi ngày (10 KEBAB mỗi khối), Phần thưởng được phát khi mỗi khối được sinh ra."
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 21140,
+      "text": "Góp cổ phần bằng KETCHUP để kiếm tiền mã hoá mới."
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 21144,
+      "text": "Phần thưởng được tính cho từng khối."
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 21146,
+      "text": "Tổng số"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 21148,
+      "text": "Cuối cùng"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 21150,
+      "text": "Xem website dự án"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 21152,
+      "text": "Dự án nào sẽ ở đây? 👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 21156,
+      "text": "Tạo nhóm cổ phần cho tiền mã hoá của bạn"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 21158,
+      "text": "Đăng ký ngay"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 21162,
+      "text": "Vòng 1: MUA VÉ SỐ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 21164,
+      "text": "THẮNG GIẢI"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 21166,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 21168,
+      "text": "Dành KEBAB để mua vé số, đóng góp vào giải thưởng. Thời gian mua vé kết thúc 30 phút trước khi quay thưởng. Người chơi giành giải thưởng nếu có 2, 3 hoặc 4 số trên vé khớp với các số trúng thưởng và ở đúng vị trí của chúng! Chúc may mắn!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 21170,
+      "text": "Tổng số vé của bạn ở lượt quay này"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 21172,
+      "text": "Mua vé số"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 21174,
+      "text": "Xem vé số của bạn"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 21176,
+      "text": "Thời gian ước tính còn lại để mua vé"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 21180,
+      "text": "Đóng"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 21182,
+      "text": "Dãy số trúng thưởng mới nhất"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 21184,
+      "text": "Vé có trúng 4 số:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 21186,
+      "text": "Vé trúng 3 số:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 21188,
+      "text": "Vé trúng hai số:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 21190,
+      "text": "Xuất danh sách các số trúng thưởng"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 21192,
+      "text": "Nhập số lượng vé bạn muốn mua"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 21194,
+      "text": "Tối đa"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 21196,
+      "text": "Có %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 21198,
+      "text": "Số KEBAB của bạn phải chia hết cho 10"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 21200,
+      "text": "1 vé - 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 21202,
+      "text": "Bạn sẽ trả: %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 21204,
+      "text": "Huỷ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 21206,
+      "text": "Xác nhận"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 21208,
+      "text": "Cảnh báo"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 21210,
+      "text": "Vé số đã mua không hoàn lại được."
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 21212,
+      "text": "KEBAB bạn dùng mua vé số sẽ không được hoàn trả."
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 21214,
+      "text": "Vé số chỉ có giá trị cho một lần quay thưởng và sẽ được tiêu huỷ sau khi quay thưởng."
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 21216,
+      "text": "Mua vé số không đảm bảo bạn sẽ giành giải thưởng. Vui lòng chỉ tham gia khi bạn hiểu rõ các rủi ro."
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 21218,
+      "text": "Tôi hiểu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 21220,
+      "text": "KEBAB dùng để mua vé số sẽ không được hoàn trả sau khi bạn mua vé."
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 21222,
+      "text": "Nhận giải"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 21224,
+      "text": "Số KEBAB nhận được"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 21226,
+      "text": "Vòng 2: NHẬN GIẢI"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 21142,
+      "text": "Bạn có thể rút cổ phần bất cứ lúc nào."
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 21228,
+      "text": "Chờ xác nhận"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 21178,
+      "text": "Vé số (Tổng số: %TICKETS%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 21230,
+      "text": "Thời gian ước tính cho lượt phát hành xổ số tiếp theo"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 21232,
+      "text": "Phê duyệt KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21136,
+      "text": "Những người nắm giữ KETCHUP sẽ chia nhau 40% khối lượng KEBAB phát hành mỗi ngày (10 KEBAB mỗi khối), Phần thưởng được phát khi mỗi khối được sinh ra."
+    }
+  }
+]

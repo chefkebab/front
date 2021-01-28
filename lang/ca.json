@@ -1,0 +1,296 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9298,
+      "text": "Agricultura"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9350,
+      "text": "Apilament"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9402,
+      "text": "Pool de KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9454,
+      "text": "Intercanvi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9506,
+      "text": "Documents"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9558,
+      "text": "Votar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9610,
+      "text": "Loteria"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9662,
+      "text": "Desbloqueja la cartera"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9714,
+      "text": "El vostre %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9764,
+      "text": "Total %asset% subministrament"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9816,
+      "text": "Bloquejat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9868,
+      "text": "Pendent de collita"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9920,
+      "text": "Noves recmpensas per bloc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9972,
+      "text": "Total de KEBABs cremades des del llançament"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10024,
+      "text": "Veure la cuina"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10076,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10128,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10180,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10232,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10284,
+      "text": "Dipositar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10336,
+      "text": "Guany"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10388,
+      "text": "Aposta FLIP fitxes per apilar KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10440,
+      "text": "Apila KEBAB obté KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10594,
+      "text": "Tu pots tornar a intercanviar quan vulguis"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10646,
+      "text": "%asset% Guanyar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10696,
+      "text": "Fitxes Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10748,
+      "text": "Cada vegada que tu stake i unstake KEBAB fitxes, el contracte passa automàgicament\nrecolliu recompenses per a vosaltres!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10800,
+      "text": "Piscina de KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10852,
+      "text": "El Sous Chef cuina un dolce per a tots els titulars de KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10904,
+      "text": "KETCHUP Fitxes Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10956,
+      "text": "XVS Fitxes Guanyades"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11008,
+      "text": "Stake el vostre KETCHUP per guanyar fitxes a nous projectes."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11060,
+      "text": "Les recompenses es calcularan per bloc i les recompenses totals es distribuiran automàticament al final del període de farming per a cada projecte."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11112,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11164,
+      "text": "Pròximament"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11216,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11266,
+      "text": "Liquiditat Total"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11316,
+      "text": "Veure a BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11366,
+      "text": "Preu del KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11416,
+      "text": "%asset% Fitxes Guanyades"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11466,
+      "text": "%num% blocs fins al final del farming"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11518,
+      "text": "KETCHUP total apilat"
+    }
+  }
+]

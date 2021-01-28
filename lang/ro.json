@@ -1,0 +1,667 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9292,
+      "text": "Fermă"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9344,
+      "text": "Investiții"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 15596,
+      "text": "Pool de KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9448,
+      "text": "Schimbați"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9500,
+      "text": "Documente"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9552,
+      "text": "Votare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9604,
+      "text": "Loterie"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9656,
+      "text": "Deblocare Portofel"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9708,
+      "text": "Balanța dvs. de %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9758,
+      "text": "Totalul de %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9810,
+      "text": "BLOCATE"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9862,
+      "text": "Recoltare în așteptare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9914,
+      "text": "Noi recompense pe fiecare bloc"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9966,
+      "text": "Totalul de monede KEBAB arse de la lansare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10018,
+      "text": "Vedeți Bucătăria"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10070,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10122,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10174,
+      "text": "GitHub"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10226,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10278,
+      "text": "Depozitare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10330,
+      "text": "Primește"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 22326,
+      "text": "Investește monede LP pentru a primii KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10434,
+      "text": "Investește KEBAB, primește KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10588,
+      "text": "Puteți schimba înapoi oricând"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10640,
+      "text": "%asset% Primite"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10690,
+      "text": "Monede Investite"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10742,
+      "text": "De fiecare dată când adaugi sau retragi monede KEBAB, contractul va culege prin auto-magie recompensele KEBAB pentru tine!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10794,
+      "text": "BAZINUL DE KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10846,
+      "text": "Bucătarul gătește ceva bun pentru toți deținătorii de KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10898,
+      "text": "Monede KETCHUP Investite"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10950,
+      "text": "Monede XVS Câștigate"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11002,
+      "text": "Investește-ți monedele KETCHUP pentru a primii monedele proiectelor noi."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11054,
+      "text": "Recompensele vor fi calculate pe bloc și recompensele totale vor fi distribuite automat la sfârșitul perioadei agricole a fiecărui proiect."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 22324,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11158,
+      "text": "În curând"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11210,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 22322,
+      "text": "Lichiditate totală"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11310,
+      "text": "Vedeți pe BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11360,
+      "text": "Preț KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11410,
+      "text": "Numărul de monede %asset% câștigate"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11460,
+      "text": "%num% blocuri până se termină cultivarea"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11512,
+      "text": "Totalul De KETCHUP Investit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 15566,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 15568,
+      "text": "In curind..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 22320,
+      "text": "Investiția ta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 15572,
+      "text": "%num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 15576,
+      "text": "Terminat"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 15580,
+      "text": "%num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 22318,
+      "text": "Website-ul proiectului"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 22316,
+      "text": "Retrage KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 21322,
+      "text": "Investește KETCHUP pentru a câștigă noi monede."
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 19918,
+      "text": "Recompensele sunt calculate pe bloc."
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 19916,
+      "text": "Total"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 19914,
+      "text": "Încheiere"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 19912,
+      "text": "Vizualizați website-ul proiectului"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 22312,
+      "text": "Proiectul dvs? "
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 22310,
+      "text": "Crează un \"pool\" pentru moneda ta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 19908,
+      "text": "Aplică acum"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 19906,
+      "text": "Runda 1: CUMPĂRARE"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 22308,
+      "text": "CÂȘTIGĂ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 19902,
+      "text": "%num% Monede KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 19900,
+      "text": "Cheltuiți KEBAB pentru a cumpăra tichete, contribuind la suma totală. Achiziția de tichete se încheie aproximativ cu 30 de minute înainte de începerea loteriei. Câștigă premii dacă 2, 3 sau 4 dintre numerele pe tichetele tale se potrivesc cu numerele câștigătoare și pozițiile lor! Mult noroc!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 19898,
+      "text": "Numărul dvs. de tichete pentru această rundă"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 22306,
+      "text": "Cumpărați tichete"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 22304,
+      "text": "Vizualizează-ți tichetele"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 19920,
+      "text": "Timpul aproximativ rămas pentru a cumpăra tichete"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 19888,
+      "text": "Închide"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 19886,
+      "text": "Ultimele Numere Câștigătoare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 22294,
+      "text": "Tichete cu 4 numere câștigătoare: "
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 22292,
+      "text": "Tichete cu 3 numere câștigătoare: "
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 22290,
+      "text": "Tichete cu 2 numere câștigătoare: "
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 19878,
+      "text": "Exportați numerele câștigătoare recente"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 19876,
+      "text": "Introduceți suma tichetelor pe care doriți să le cumpărați"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 19874,
+      "text": "Maxim"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 19872,
+      "text": "%num% Monede KEBAB Disponibile"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 19870,
+      "text": "Suma dvs. trebuie să fie un multiplu de 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 22286,
+      "text": "1 Tichet = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 19866,
+      "text": "Veți cheltui: %num% KEBAB\n"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 22276,
+      "text": "Anulare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 22274,
+      "text": "Confirmare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 22270,
+      "text": "Avertisment"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 22268,
+      "text": "Achizițiile de tichete pentru loterie sunt finale."
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 22264,
+      "text": "Mondele KEBAB nu vă vor fi returnate după ce le-ați cheltuit pentru a cumpără bilete."
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 22262,
+      "text": "Tichetele sunt valabile doar pentru o singură extragere și vor fi arse după extragere."
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 22256,
+      "text": "Cumpărarea de tichete nu garantează că veți câștiga. Vă rugăm să participați numai după ce înțelegeți riscurile."
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 19850,
+      "text": "Înțeleg"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 22246,
+      "text": "Achizițiile de tichete sunt finale. Monedele KEBAB nu vă pot fi returnate după cumpărarea biletelor."
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 22242,
+      "text": "Revendicare câștiguri"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 22240,
+      "text": "Câștiguri (KEBAB) în așteptarea revendicării"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 19838,
+      "text": "Runda 2: REVENDICARE"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 21326,
+      "text": "Puteți retrage oricând."
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 21316,
+      "text": "Confirmare în așteptare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 21318,
+      "text": "Tichetele Mele (Total: %TICKETS%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 22216,
+      "text": "Următoarea loterie va începe în aproximativ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 21312,
+      "text": "Aprobă KEBAB"
+    }
+  }
+]

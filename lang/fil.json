@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9342,
+      "text": "Sakahan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9394,
+      "text": "Pag-iistake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9446,
+      "text": "Pool ng KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9498,
+      "text": "Palitan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9550,
+      "text": "Mga Dokumento"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9602,
+      "text": "Pagboto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9654,
+      "text": "Loterya"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9706,
+      "text": "I-unlock ang wallet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9756,
+      "text": "Ang balanse ng iyong %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9808,
+      "text": "Kabuuang supply ng %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9860,
+      "text": "Naka-lock"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9912,
+      "text": "Nakabinbin na ani"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9964,
+      "text": "Panibagong pabuya kada block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 10016,
+      "text": "Kabuuang KEBAB na sinunog simula nung pagka-launch"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10068,
+      "text": "Tignan ang Kusina"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10120,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10172,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10224,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10276,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10328,
+      "text": "Deposito"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10380,
+      "text": "Kumita"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10432,
+      "text": "Mag stake ng mga FLIP tokens para maka-ipon ng KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10484,
+      "text": "Mag stake ng KEBAB para makakuha ng KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10638,
+      "text": "Pwede mong iswap back kahit anong oras"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10688,
+      "text": "%asset% Kinita"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10740,
+      "text": "Mga token na naka-stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10792,
+      "text": "Sa bawat oras na ikaw ay mag stake o unstake ng iyong KEBAB tokens, ang contract ay mala-mahikang aanihin ang KEBAB na iyong nakuha para sa iyo!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10844,
+      "text": "Pool ng KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10896,
+      "text": "Ang Sous Chef ay nagluluto ng pabuya para sa mga may hawak na KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10948,
+      "text": "Mga naka stake na KETCHUP token"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 11000,
+      "text": "Mga kinitang xvs token"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11052,
+      "text": "Magstake ng KETCHUP upang kumita ng mga token ng mga bagong proyekto."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11104,
+      "text": "Ang mga gantimpala ay naka-kalkula bawat block at ang kabuuang mga gantimpala ay awtomatikong ibabahagi sa pagkatapos ng farming period ng isang proyekto."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11156,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11208,
+      "text": "Paparating"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11258,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11308,
+      "text": "Kabuuang Liquidity"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11358,
+      "text": "Tignan sa BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11408,
+      "text": "Ang presyo ng KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11458,
+      "text": "%asset% Kinitang Tokens"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11510,
+      "text": "%num% Mga block hanggang matapos ang farming"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 14324,
+      "text": "Kabuuang KETCHUP na nakastake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13480,
+      "text": "Isang KEBAB = Isang KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 13498,
+      "text": "Paparating..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 13518,
+      "text": "Ang iyong stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 13588,
+      "text": "Ang pagfafarm ay magsisimula sa %num% na block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 13608,
+      "text": "Tapos na"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 13634,
+      "text": "Ang pagfafarm ay magtatapos sa %num% na block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 13666,
+      "text": "Site ng project"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 13678,
+      "text": "I-unstake ang KETCHUP"
+    }
+  }
+]

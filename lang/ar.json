@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 13300,
+      "text": "مزرعه"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9348,
+      "text": "ربط الحصة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 15430,
+      "text": "تجمع الKETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 13448,
+      "text": "تبادل"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9504,
+      "text": "الوثائق"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 13484,
+      "text": "التصويت"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 13510,
+      "text": "قرعه"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9660,
+      "text": "فتح المحفظة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9712,
+      "text": "رصيدك من %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9762,
+      "text": "إجمالي المعروض %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9814,
+      "text": "مجمد"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9866,
+      "text": "جاري الحصاد"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9918,
+      "text": "جائزة جديده لكل كتله"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9970,
+      "text": "إجمالي KEBAB المحترقة منذ الإطلاق"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10022,
+      "text": "انظر إلى المطبخ"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10074,
+      "text": "تيليجرام"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10126,
+      "text": "مدونة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 15452,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 15456,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10282,
+      "text": "إيداع"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 15462,
+      "text": "أكسب"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 15504,
+      "text": "وتد رمز حصه الFLIP لتنقيب عمله ال KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10438,
+      "text": "ثبت عملة KEBAB و احصل علي KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10592,
+      "text": "يمكنك عكس المبادلة في أي وقت"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 13844,
+      "text": "المكتسب %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 13866,
+      "text": "العملات المربوطه"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10746,
+      "text": "في كل مرة ستقوم بتثبيت حصة عملة KEBAB أو نزع تثبيتها, سيحصد عقدك تلقائيا جميع جوائز KEBAB!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10798,
+      "text": "حوض KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 13956,
+      "text": "الطاهي المسؤول يقوم بتحضير أكلة شهية لكل حاملي KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10902,
+      "text": "عملات KETCHUP المثبته"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10954,
+      "text": "عملات XVS المكتسبة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11006,
+      "text": "قم بتثبيت الحصة لعملات KETCHUP الخاص بك لكسب عملات المشاريع الجديدة."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11058,
+      "text": "سيتم احتساب الجوائز لكل كتلة كما سيتم توزيع مجموع الجوائز تلقائيًا في نهاية فترة الزراعة لكل مشروع."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 15512,
+      "text": "تجمع"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 15516,
+      "text": "سيأتي قريباً٠٠٠"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11214,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11264,
+      "text": "إجمالي السيولة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11314,
+      "text": "المعاينة على BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 15532,
+      "text": "سعر العمله ال KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 15540,
+      "text": "%asset% العملات المكتسبة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11464,
+      "text": "%num% كتلة حتى انتهاء الزراعة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11516,
+      "text": "مجموع KETCHUP المثبتة الحصة"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 15506,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 13032,
+      "text": "سيأتي قريباً..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 13066,
+      "text": "حصتك"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 13198,
+      "text": "التنقيب يبدأ بعد %؜num% مجموعه"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 13208,
+      "text": "انتهى"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 13238,
+      "text": "التنقيب ينتهي بعد %num% مجموعه"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 13252,
+      "text": "موقع المشروع"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 13426,
+      "text": "فك ال KETCHUP"
+    }
+  }
+]

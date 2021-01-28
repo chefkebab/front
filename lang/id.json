@@ -1,0 +1,1262 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 15602,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 12672,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 12690,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9492,
+      "text": "Pertukaran"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9544,
+      "text": "Dokumen\n"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 13822,
+      "text": "Pemilihan Suara"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9648,
+      "text": "Undian"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9700,
+      "text": "Buka Dompet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 14622,
+      "text": "Saldo %asset% mu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 14602,
+      "text": "Total Pasokan %Aset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9854,
+      "text": "TERKUNCI"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 14564,
+      "text": "Pending Harvest"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 13526,
+      "text": "Hadiah baru per blok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 14554,
+      "text": "Total KEBAB dibakar semenjak rilis"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 13598,
+      "text": "Lihat dapur"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10114,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10166,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10218,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10270,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 14524,
+      "text": "Deposit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 13630,
+      "text": "Hasilkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 14510,
+      "text": "Stake FLIP token untuk menumpuk KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 14486,
+      "text": "Stake KEBAB, dapat KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10632,
+      "text": "Anda dapat menukar kembali kapan saja"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10682,
+      "text": "%asset% Diperoleh"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 14416,
+      "text": "Token Staked"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 14414,
+      "text": "Setiap kali Anda memasukan dan melepas token KEBAB, kontrak akan secara otomatis memanen hadiah KEBAB untuk Anda!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 14406,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 14254,
+      "text": "Chef Sous sedang memasak hidangan untuk para pemegang KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10942,
+      "text": "Token KETCHUP dipertaruhkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 13778,
+      "text": "Token XVS dihasilkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 14392,
+      "text": "Stake token KETCHUP anda untuk mendapatkan token proyek baru."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 14376,
+      "text": "Hadiah akan dihitung per blok dan total hadiah akan didistribusikan secara otomatis di akhir Farming periode pada setiap proyek."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 14036,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 13808,
+      "text": "Segera Hadir"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 14364,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 13848,
+      "text": "Total Likuiditas"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 13860,
+      "text": "Lihat di BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11404,
+      "text": "Harga KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 14294,
+      "text": "%Asset% Token Dihasilkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 14662,
+      "text": "%num% blok sampai Farming berakhir"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 13926,
+      "text": "Total KETCHUP yang di pertaruhkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 12584,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 12610,
+      "text": "Segera hadir..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 14252,
+      "text": "Stake Anda"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 14648,
+      "text": "Farming dimulai pada Blok %num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 12636,
+      "text": "Selesai"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 12640,
+      "text": "Farming berakhir pada Blocks %num%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 12660,
+      "text": "Situs Proyek"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 12666,
+      "text": "Unstake KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 19548,
+      "text": "Pemegang KETCHUP membagi secara proporsional 25% hadiah KEBAB setiap hari (10 KEBAB per blok), Hadiah didistribusikan setiap blok."
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 21912,
+      "text": "Stake KETCHUP untuk mendapatkan token baru."
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 19532,
+      "text": "Hadiah dihitung per blok."
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 19534,
+      "text": "Total"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 19536,
+      "text": "Berakhir"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 19538,
+      "text": "Lihat laman proyek"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 19540,
+      "text": "Proyek Anda? 👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 19542,
+      "text": "Buat pool untuk token anda"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 19544,
+      "text": "Daftar sekarang"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 19550,
+      "text": "Ronde 1: PEMBELIAN"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 19702,
+      "text": "MENANGKAN"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 19554,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 19712,
+      "text": "Gunakan KEBAB untuk membeli tiket, berkontribusi pada pot undian. Pembelian tiket berakhir sekitar. 30 menit sebelum pengundian. Menangkan hadiah jika 2, 3, atau 4 nomor tiket Anda cocok dengan Angka yang keluar dan posisi cocok! Semoga berhasil!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 19562,
+      "text": "Total tiket Anda untuk babak ini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 19564,
+      "text": "Beli tiket"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 19566,
+      "text": "Lihat tiket Anda"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 20722,
+      "text": "Waktu tersisa untuk membeli tiket. Sekitar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 19572,
+      "text": "Tutup"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 19714,
+      "text": "Angka yang keluar terkini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 19594,
+      "text": "Tiket yang cocok dengan 4 nomor:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 19596,
+      "text": "Tiket yang cocok dengan 3 nomor:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 19598,
+      "text": "Tiket yang cocok dengan 2 nomor:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 19716,
+      "text": "Ekspor Angka yang keluar terkini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 19602,
+      "text": "Masukkan jumlah tiket yang ingin dibeli"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 19604,
+      "text": "Maks"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 19606,
+      "text": "%num% KEBAB Tersedia"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 19646,
+      "text": "Jumlah harus kelipatan 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 19796,
+      "text": "1 Tiket = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 19650,
+      "text": "Anda akan menghabiskan: %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 19614,
+      "text": "Batal"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 19616,
+      "text": "Konfirmasi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 19618,
+      "text": "Peringatan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 19620,
+      "text": "Pembelian tiket undian bersifat final."
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 19622,
+      "text": "KEBAB Anda tidak akan dikembalikan setelah Anda membelanjakannya untuk membeli tiket."
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 19624,
+      "text": "Tiket hanya berlaku untuk satu pengundian, dan akan dibakar setelah pengundian."
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 19626,
+      "text": "Membeli tiket tidak menjamin Anda akan memenangkan apapun. Harap hanya berpartisipasi setelah Anda memahami risikonya."
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 19628,
+      "text": "Saya mengerti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 19630,
+      "text": "Pembelian tiket undian bersifat final. KEBAB Anda tidak akan dikembalikan setelah Anda membeli tiket."
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 19632,
+      "text": "Klaim hadiah"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 19634,
+      "text": "Hadiah KEBAB untuk diklaim"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 19636,
+      "text": "Ronde 2: MENGKLAIM"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 19698,
+      "text": "Anda dapat Unstake kapan pun."
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 20714,
+      "text": "Menunggu Konfirmasi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 20740,
+      "text": "Tiket Saya (Total: %TICKETS% "
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 20718,
+      "text": "Waktu sebelum Lottery berikutnya dimulai. Sekitar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 20720,
+      "text": "Setujui KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21122,
+      "text": "Pemegang KETCHUP membagi secara proporsional 40% hadiah KEBAB setiap hari (10 KEBAB per blok), Hadiah didistribusikan setiap blok."
+    }
+  },
+  {
+    "data": {
+      "stringId": 500,
+      "translationId": 21820,
+      "text": "IFO: Intitial Farm Offerings"
+    }
+  },
+  {
+    "data": {
+      "stringId": 502,
+      "translationId": 21822,
+      "text": "\nBeli token baru dengan model penjualan token baru."
+    }
+  },
+  {
+    "data": {
+      "stringId": 504,
+      "translationId": 21824,
+      "text": "Anda akan membayar token baru menggunakan token KEBAB-BNB LP, yang berarti Anda harus mempertaruhkan jumlah yang sama dari KEBAB dan BNB dalam kumpulan likuiditas untuk ikut serta."
+    }
+  },
+  {
+    "data": {
+      "stringId": 506,
+      "translationId": 21826,
+      "text": "\nDapatkan KEBAB-BNB LP >"
+    }
+  },
+  {
+    "data": {
+      "stringId": 508,
+      "translationId": 21828,
+      "text": "\nProyek mendapatkan BNB, PanKEBABSwap membakar KEBAB."
+    }
+  },
+  {
+    "data": {
+      "stringId": 510,
+      "translationId": 21830,
+      "text": "Anda mendapatkan tokennya."
+    }
+  },
+  {
+    "data": {
+      "stringId": 512,
+      "translationId": 21832,
+      "text": "Ingin meluncurkan IFO Anda sendiri?"
+    }
+  },
+  {
+    "data": {
+      "stringId": 514,
+      "translationId": 21834,
+      "text": "Luncurkan proyek Anda dengan PanKEBABSwap, proyek AMM dan penyedia likuiditas yang paling banyak digunakan Binance Smart Chain, untuk membawa token Anda langsung ke komunitas yang paling aktif dan berkembang pesat di BSC."
+    }
+  },
+  {
+    "data": {
+      "stringId": 516,
+      "translationId": 21836,
+      "text": "Daftar untuk peluncuran"
+    }
+  },
+  {
+    "data": {
+      "stringId": 518,
+      "translationId": 21838,
+      "text": "HARD akan didistribusikan setiap minggu saat blok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 520,
+      "translationId": 21840,
+      "text": "Komunitas"
+    }
+  },
+  {
+    "data": {
+      "stringId": 522,
+      "translationId": 21842,
+      "text": "Inti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 526,
+      "translationId": 21844,
+      "text": "Tersedia"
+    }
+  },
+  {
+    "data": {
+      "stringId": 528,
+      "translationId": 21846,
+      "text": "Dompet Saya"
+    }
+  },
+  {
+    "data": {
+      "stringId": 530,
+      "translationId": 21848,
+      "text": "Keluar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 532,
+      "translationId": 21850,
+      "text": "Panen semua (%count%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 534,
+      "translationId": 21852,
+      "text": "Statistik KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 536,
+      "translationId": 21854,
+      "text": "Total Pasokan KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 538,
+      "translationId": 21856,
+      "text": "Jumlah KEBAB Terbakar\n"
+    }
+  },
+  {
+    "data": {
+      "stringId": 540,
+      "translationId": 21858,
+      "text": "New KEBAB/block"
+    }
+  },
+  {
+    "data": {
+      "stringId": 542,
+      "translationId": 21860,
+      "text": "Farms & Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 544,
+      "translationId": 21862,
+      "text": "KEBAB untuk Di Panen"
+    }
+  },
+  {
+    "data": {
+      "stringId": 546,
+      "translationId": 21864,
+      "text": "KEBAB di Dompet"
+    }
+  },
+  {
+    "data": {
+      "stringId": 548,
+      "translationId": 21866,
+      "text": "Mengumpulkan KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 550,
+      "translationId": 21870,
+      "text": "Kemenangan Undian Anda"
+    }
+  },
+  {
+    "data": {
+      "stringId": 552,
+      "translationId": 21872,
+      "text": "KEBAB untuk Dikumpulkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 554,
+      "translationId": 21874,
+      "text": "Total jackpot Ronde ini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 556,
+      "translationId": 21876,
+      "text": "Kumpulan hasil pemenang"
+    }
+  },
+  {
+    "data": {
+      "stringId": 558,
+      "translationId": 21878,
+      "text": "Beli tiket"
+    }
+  },
+  {
+    "data": {
+      "stringId": 562,
+      "translationId": 21880,
+      "text": "Harvest"
+    }
+  },
+  {
+    "data": {
+      "stringId": 564,
+      "translationId": 21882,
+      "text": "Setujui"
+    }
+  },
+  {
+    "data": {
+      "stringId": 566,
+      "translationId": 21884,
+      "text": "Vote"
+    }
+  },
+  {
+    "data": {
+      "stringId": 568,
+      "translationId": 21886,
+      "text": "Pilih"
+    }
+  },
+  {
+    "data": {
+      "stringId": 570,
+      "translationId": 21888,
+      "text": "Nomor Pemenang Ronde ini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 572,
+      "translationId": 21890,
+      "text": "Nomor Pemenang Terbaru"
+    }
+  },
+  {
+    "data": {
+      "stringId": 574,
+      "translationId": 21892,
+      "text": "Staking Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 576,
+      "translationId": 21894,
+      "text": "PanKEBABSwap"
+    }
+  },
+  {
+    "data": {
+      "stringId": 578,
+      "translationId": 21896,
+      "text": "AMM #1 dan pertanian hasil di Binance Smart Chain."
+    }
+  },
+  {
+    "data": {
+      "stringId": 580,
+      "translationId": 21898,
+      "text": "Stake KEBAB untuk mendapatkan token baru."
+    }
+  },
+  {
+    "data": {
+      "stringId": 582,
+      "translationId": 21900,
+      "text": "Waktu peluncuran"
+    }
+  },
+  {
+    "data": {
+      "stringId": 584,
+      "translationId": 21902,
+      "text": "Dijual"
+    }
+  },
+  {
+    "data": {
+      "stringId": 586,
+      "translationId": 21906,
+      "text": "KEBAB untuk Dibakar (USD)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 588,
+      "translationId": 21908,
+      "text": "Unstake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 590,
+      "translationId": 21910,
+      "text": "⭐️ Setiap kali Anda mempertaruhkan dan melepas token LP, kontrak akan secara otomatis memanen hadiah KEBAB untuk Anda!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 592,
+      "translationId": 22496,
+      "text": "Cara berpartisipasi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 594,
+      "translationId": 22498,
+      "text": "Sebelum Penjualan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 596,
+      "translationId": 22500,
+      "text": "Beli token KEBAB dan BNB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 598,
+      "translationId": 22502,
+      "text": "Dapatkan token KEBAB-BNB LP dengan menambahkan likuiditas KEBAB dan BNB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 600,
+      "translationId": 22504,
+      "text": "Selama Penjualan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 602,
+      "translationId": 22506,
+      "text": "Saat penjualan berlangsung, Serahkan token KEBAB-LP Anda untuk membeli token IFO"
+    }
+  },
+  {
+    "data": {
+      "stringId": 604,
+      "translationId": 22508,
+      "text": "Setelah Penjualan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 606,
+      "translationId": 22510,
+      "text": "Klaim token yang Anda beli, bersama dengan dana yang tidak terpakai."
+    }
+  },
+  {
+    "data": {
+      "stringId": 608,
+      "translationId": 22512,
+      "text": "Selesai!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 610,
+      "translationId": 22514,
+      "text": "Baca lebih lanjut"
+    }
+  },
+  {
+    "data": {
+      "stringId": 612,
+      "translationId": 23172,
+      "text": "Hubungkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 614,
+      "translationId": 23178,
+      "text": "Tukarkan dengan KEBAB, atau simpan untuk koleksi Anda!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 616,
+      "translationId": 23096,
+      "text": "Daftarkan minat Anda untuk memenangkan NFT di bawah ini."
+    }
+  },
+  {
+    "data": {
+      "stringId": 618,
+      "translationId": 23098,
+      "text": "Daftarkan diri Anda untuk mendapatkan kesempatan menang"
+    }
+  },
+  {
+    "data": {
+      "stringId": 620,
+      "translationId": 23102,
+      "text": "Pelajari lebih lanjut"
+    }
+  },
+  {
+    "data": {
+      "stringId": 622,
+      "translationId": 23176,
+      "text": "Perdagangkan NFT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 624,
+      "translationId": 23112,
+      "text": "Menjual-belikan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 626,
+      "translationId": 23118,
+      "text": "Anda akan menerima"
+    }
+  },
+  {
+    "data": {
+      "stringId": 628,
+      "translationId": 23122,
+      "text": "Saat Anda memperdagangkan NFT ini untuk menerima KEBAB, Anda akan kehilangan akses ke sana selamanya!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 630,
+      "translationId": 23124,
+      "text": "Klaim NFT"
+    }
+  },
+  {
+    "data": {
+      "stringId": 632,
+      "translationId": 23126,
+      "text": "Bagaimana itu bekerja"
+    }
+  },
+  {
+    "data": {
+      "stringId": 634,
+      "translationId": 23128,
+      "text": "Pemenang dapat mengklaim NFT di halaman ini setelah periode klaim dimulai."
+    }
+  },
+  {
+    "data": {
+      "stringId": 636,
+      "translationId": 23132,
+      "text": "Jika Anda tidak terpilih, Anda tidak akan dapat mengklaim. Semoga lain kali lebih beruntung!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 638,
+      "translationId": 23134,
+      "text": "Pemenang dapat menukar NFT mereka dengan nilai KEBAB sampai tanggal kedaluwarsa yang tertulis di bawah ini. Jika Anda tidak menukar NFT Anda saat itu, jangan khawatir: Anda masih akan menyimpannya di dompet Anda!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 640,
+      "translationId": 23138,
+      "text": "Bagaimana pemenang dipilih?"
+    }
+  },
+  {
+    "data": {
+      "stringId": 642,
+      "translationId": 23142,
+      "text": "Pemenang dipilih secara acak! Semoga berhasil!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 644,
+      "translationId": 23144,
+      "text": "Daftarkan diri Anda untuk mendapatkan kesempatan menang"
+    }
+  },
+  {
+    "data": {
+      "stringId": 646,
+      "translationId": 23146,
+      "text": "Nilai jika diperdagangkan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 648,
+      "translationId": 23182,
+      "text": "Jumlah yang dicetak"
+    }
+  },
+  {
+    "data": {
+      "stringId": 650,
+      "translationId": 23148,
+      "text": "Jumlah yang dibakar"
+    }
+  },
+  {
+    "data": {
+      "stringId": 652,
+      "translationId": 23152,
+      "text": "Klaim NFT ini"
+    }
+  },
+  {
+    "data": {
+      "stringId": 654,
+      "translationId": 23154,
+      "text": "Tukar dengan KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 656,
+      "translationId": 23156,
+      "text": "Memuat…"
+    }
+  },
+  {
+    "data": {
+      "stringId": 658,
+      "translationId": 23158,
+      "text": "Detail"
+    }
+  },
+  {
+    "data": {
+      "stringId": 660,
+      "translationId": 23160,
+      "text": "Anda menang!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 662,
+      "translationId": 23164,
+      "text": "Klaim NFT dari opsi di bawah ini!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 664,
+      "translationId": 23162,
+      "text": "Bisa diperdagangkan sampai"
+    }
+  },
+  {
+    "data": {
+      "stringId": 666,
+      "translationId": 23166,
+      "text": "Dompet Terputus"
+    }
+  },
+  {
+    "data": {
+      "stringId": 668,
+      "translationId": 23170,
+      "text": "Hubungkan untuk melihat apakah Anda telah memenangkan NFT!"
+    }
+  }
+]

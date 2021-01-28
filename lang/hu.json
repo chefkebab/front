@@ -1,0 +1,352 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9310,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9362,
+      "text": "Stakelés"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9414,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9466,
+      "text": "Tőzsde"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9518,
+      "text": "Dokumentumok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9570,
+      "text": "Szavazás"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9622,
+      "text": "Lottó"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9674,
+      "text": "Wallet feloldása"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9724,
+      "text": "A Te %asset% egyenleged"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9776,
+      "text": "Teljes %asset% mennyisége"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9828,
+      "text": "ZÁROLVA"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9880,
+      "text": "Függő betakarítás"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9932,
+      "text": "Új blokkonkénti jutalom"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9984,
+      "text": "Az összes elégetett KEBAB az indulás óta"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 10036,
+      "text": "Lásd a Konyhát"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10088,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10140,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10192,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10244,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10296,
+      "text": "Befizetés"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10348,
+      "text": "Pénz keresés"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10400,
+      "text": "Köss le FLIP tokent, hogy KEBAB-t halmozhass fel"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10452,
+      "text": "Köss le KEBAB-t, kapj KETCHUP-ot."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10606,
+      "text": "Vissza tudod váltani bármikor"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10656,
+      "text": "%asset% Kerestél"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 10708,
+      "text": "Letétbe helyezett Tokenek"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 10760,
+      "text": "A KEBAB tokenek letétje és visszavétele alkalmával a szerződés automatikusan KEBAB-jutalmakat szed be Önnek!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10812,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 10864,
+      "text": "A Sous Chef minden KETCHUP-tulajdonos számára ínyencséget készít"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 10916,
+      "text": "KETCHUP Tokenek letétbe helyezve"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10968,
+      "text": "XVS Tokenek jutalmazva"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11020,
+      "text": "Helyezz letétbe KETCHUP-ot, hogy megkapd az új projektek után járó jutalmakat."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11072,
+      "text": "A jutalmak blokkonként kerülnek kiszámításra, és az összes jutalmat automatikusan kiosztják az egyes projektek farming időszakának végén."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11124,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11176,
+      "text": "Hamarosan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11228,
+      "text": "Éves hozam"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11278,
+      "text": "Teljes likviditás"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11328,
+      "text": "Megtekintés BscScan-en"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11378,
+      "text": "KEBAB ára"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 11428,
+      "text": "%asset% Tokent kaptál jutalmul"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11478,
+      "text": "%num% blokkok a farmolás végéig"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 11530,
+      "text": "Az összes letétbe helyezett KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 19354,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 19356,
+      "text": "Hamarosan..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 19358,
+      "text": "Lekötésed"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 19360,
+      "text": "Farmolás kezdődik %num% blokkon belül"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 19362,
+      "text": "Befejezett"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 19364,
+      "text": "Farmolás befejeződik %num% blokkon belül"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 19366,
+      "text": "Project oldal"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 19368,
+      "text": "KETCHUP felszabadítása"
+    }
+  }
+]

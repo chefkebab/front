@@ -1,0 +1,359 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9300,
+      "text": "Farmaření"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 13020,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 14362,
+      "text": "KETCHUP Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 13028,
+      "text": "Burza"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 9508,
+      "text": "Dokumenty"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9560,
+      "text": "Hlasování"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9612,
+      "text": "Loterie"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9664,
+      "text": "Odemknout Peněženku"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9716,
+      "text": "Váš Zůstatek %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9766,
+      "text": "Celková %asset% Částka"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 14586,
+      "text": "UZAMČENO"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 14676,
+      "text": "Zpracovávající se sklizeň"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 14682,
+      "text": "Nové odměny za blok"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9974,
+      "text": "Celkové KEBAB spálené od spuštění"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 14744,
+      "text": "Podívejte se do Kuchyně"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10078,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10130,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10182,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10234,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 10286,
+      "text": "Vklad"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10338,
+      "text": "Vyděláno"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 14806,
+      "text": "Zastakujte FLIP tokeny na hromadění KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 14816,
+      "text": "Zastakujte KEBAB, získejte KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 10596,
+      "text": "Můžete je kdykoli vyměnit"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10648,
+      "text": "%asset% Vyděláno"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 13054,
+      "text": "Zastakované Tokeny"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 13110,
+      "text": "Pokaždé, když zastakujete a odstakujete KEBAB tokeny, kontrakt za vás automaticky sklidí odměnu KEBAB!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10802,
+      "text": "KETCHUP POOL"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 14844,
+      "text": "Sous Chef připravuje pochoutku pro všechny držitele KETCHUPU"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 13658,
+      "text": "Zastakované KETCHUP Tokeny"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 13226,
+      "text": "Získané XVS Tokeny"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 13256,
+      "text": "Zastakujte váš KETCHUP a získejte tokeny nových projektů."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 14860,
+      "text": "Odměny se počítají za blok a celkové odměny se automaticky rozdělí na konci období farmaření každého projektu."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11114,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11166,
+      "text": "Již brzy"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11218,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 13290,
+      "text": "Celková Likvidita"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11318,
+      "text": "Zobrazit na BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11368,
+      "text": "Cena KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 14870,
+      "text": "%asset% Získáno Tokenů"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 14884,
+      "text": "%num% počet bloků před koncem farmaření"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 13496,
+      "text": "Celkem Zastakovaného KETCHUPu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 18808,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 18810,
+      "text": "Již brzy..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 13440,
+      "text": "Váš Stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 18812,
+      "text": "Farmaření začíná za %num% Bloků"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 18814,
+      "text": "Ukončený"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 18816,
+      "text": "Farmaření končí za %num% Bloků"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 13408,
+      "text": "Stránka Projektu"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 13360,
+      "text": "Odstakovat KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 20930,
+      "text": "Max"
+    }
+  }
+]

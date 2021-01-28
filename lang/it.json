@@ -1,0 +1,681 @@
+[
+  {
+    "data": {
+      "stringId": 278,
+      "translationId": 9312,
+      "text": "Farm"
+    }
+  },
+  {
+    "data": {
+      "stringId": 280,
+      "translationId": 9364,
+      "text": "Staking"
+    }
+  },
+  {
+    "data": {
+      "stringId": 282,
+      "translationId": 9416,
+      "text": "Pool KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 284,
+      "translationId": 9468,
+      "text": "Exchange"
+    }
+  },
+  {
+    "data": {
+      "stringId": 286,
+      "translationId": 18614,
+      "text": "Documentazione"
+    }
+  },
+  {
+    "data": {
+      "stringId": 288,
+      "translationId": 9572,
+      "text": "Votazione"
+    }
+  },
+  {
+    "data": {
+      "stringId": 290,
+      "translationId": 9624,
+      "text": "Lotteria"
+    }
+  },
+  {
+    "data": {
+      "stringId": 292,
+      "translationId": 9676,
+      "text": "Sblocca Portafoglio"
+    }
+  },
+  {
+    "data": {
+      "stringId": 294,
+      "translationId": 9726,
+      "text": "Il tuo saldo di %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 296,
+      "translationId": 9778,
+      "text": "Supply totale di %asset%"
+    }
+  },
+  {
+    "data": {
+      "stringId": 298,
+      "translationId": 9830,
+      "text": "BLOCCATO"
+    }
+  },
+  {
+    "data": {
+      "stringId": 300,
+      "translationId": 9882,
+      "text": "Raccolto in sospeso"
+    }
+  },
+  {
+    "data": {
+      "stringId": 302,
+      "translationId": 9934,
+      "text": "Nuove ricompense per blocco"
+    }
+  },
+  {
+    "data": {
+      "stringId": 304,
+      "translationId": 9986,
+      "text": "KEBAB totali bruciati dal lancio"
+    }
+  },
+  {
+    "data": {
+      "stringId": 306,
+      "translationId": 13868,
+      "text": "Visita la Cucina"
+    }
+  },
+  {
+    "data": {
+      "stringId": 308,
+      "translationId": 10090,
+      "text": "Telegram"
+    }
+  },
+  {
+    "data": {
+      "stringId": 310,
+      "translationId": 10142,
+      "text": "Blog"
+    }
+  },
+  {
+    "data": {
+      "stringId": 312,
+      "translationId": 10194,
+      "text": "Github"
+    }
+  },
+  {
+    "data": {
+      "stringId": 314,
+      "translationId": 10246,
+      "text": "Twitter"
+    }
+  },
+  {
+    "data": {
+      "stringId": 316,
+      "translationId": 13914,
+      "text": "Deposita"
+    }
+  },
+  {
+    "data": {
+      "stringId": 318,
+      "translationId": 10350,
+      "text": "Guadagna"
+    }
+  },
+  {
+    "data": {
+      "stringId": 320,
+      "translationId": 10402,
+      "text": "Metti in stake i tuoi token FLIP per guadagnare token KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 322,
+      "translationId": 10454,
+      "text": "Metti in stake KEBAB, ricevi KETCHUP."
+    }
+  },
+  {
+    "data": {
+      "stringId": 328,
+      "translationId": 18690,
+      "text": "Puoi tornare indietro (swap back) in qualsiasi momento"
+    }
+  },
+  {
+    "data": {
+      "stringId": 330,
+      "translationId": 10658,
+      "text": "%asset% guadagnati"
+    }
+  },
+  {
+    "data": {
+      "stringId": 332,
+      "translationId": 13968,
+      "text": "Token in stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 334,
+      "translationId": 18616,
+      "text": "Ogni volta che metti in stake o togli dallo stake dei token KEBAB, il contratto raccoglierà automaticamente le ricompense KEBAB per te!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 336,
+      "translationId": 10814,
+      "text": "POOL KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 338,
+      "translationId": 19482,
+      "text": "Il Sous Chef sta cucinando un manicaretto per tutti i detentori di KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 340,
+      "translationId": 14050,
+      "text": "Token KETCHUP in stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 342,
+      "translationId": 10970,
+      "text": "Token XVS guadagnati"
+    }
+  },
+  {
+    "data": {
+      "stringId": 344,
+      "translationId": 11022,
+      "text": "Metti in Stake i tuoi KETCHUP per guadagnare token di nuovi progetti."
+    }
+  },
+  {
+    "data": {
+      "stringId": 346,
+      "translationId": 11074,
+      "text": "Le ricompense verranno calcolate per blocco e le ricompense totali verranno distribuite automaticamente alla fine del periodo di farming di ogni progetto."
+    }
+  },
+  {
+    "data": {
+      "stringId": 348,
+      "translationId": 11126,
+      "text": "Pool"
+    }
+  },
+  {
+    "data": {
+      "stringId": 350,
+      "translationId": 11178,
+      "text": "Prossimamente"
+    }
+  },
+  {
+    "data": {
+      "stringId": 352,
+      "translationId": 11230,
+      "text": "APY"
+    }
+  },
+  {
+    "data": {
+      "stringId": 354,
+      "translationId": 11280,
+      "text": "Liquidità Totale"
+    }
+  },
+  {
+    "data": {
+      "stringId": 356,
+      "translationId": 11330,
+      "text": "Guarda su BscScan"
+    }
+  },
+  {
+    "data": {
+      "stringId": 358,
+      "translationId": 11380,
+      "text": "Prezzo KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 360,
+      "translationId": 16210,
+      "text": "Token %asset% Guadagnati"
+    }
+  },
+  {
+    "data": {
+      "stringId": 362,
+      "translationId": 11480,
+      "text": "%num% blocchi alla fine del farming"
+    }
+  },
+  {
+    "data": {
+      "stringId": 364,
+      "translationId": 16202,
+      "text": "KETCHUP Totali in Stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 380,
+      "translationId": 13988,
+      "text": "1 KEBAB = 1 KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 382,
+      "translationId": 13996,
+      "text": "Prossimamente..."
+    }
+  },
+  {
+    "data": {
+      "stringId": 384,
+      "translationId": 14012,
+      "text": "Il tuo stake"
+    }
+  },
+  {
+    "data": {
+      "stringId": 386,
+      "translationId": 15338,
+      "text": "Il farming inizierà tra %num% blocchi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 388,
+      "translationId": 14030,
+      "text": "Finito"
+    }
+  },
+  {
+    "data": {
+      "stringId": 390,
+      "translationId": 15344,
+      "text": "Il farming finirà tra %num% blocchi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 392,
+      "translationId": 14066,
+      "text": "Il sito del progetto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 394,
+      "translationId": 14094,
+      "text": "Unstake KETCHUP"
+    }
+  },
+  {
+    "data": {
+      "stringId": 400,
+      "translationId": 19932,
+      "text": "I possessori di KETCHUP si suddividono proporzionalmente il 25% delle emissioni del blocco KEBAB ogni giorno (10 KEBAB per blocco), le rewards sono distribuite ad ogni blocco."
+    }
+  },
+  {
+    "data": {
+      "stringId": 402,
+      "translationId": 19926,
+      "text": "Stake %ASSET% per guadagnare nuovi token."
+    }
+  },
+  {
+    "data": {
+      "stringId": 406,
+      "translationId": 19936,
+      "text": "Le reward sono calcolate per blocco."
+    }
+  },
+  {
+    "data": {
+      "stringId": 408,
+      "translationId": 19938,
+      "text": "Totale"
+    }
+  },
+  {
+    "data": {
+      "stringId": 410,
+      "translationId": 19940,
+      "text": "Fine"
+    }
+  },
+  {
+    "data": {
+      "stringId": 412,
+      "translationId": 19942,
+      "text": "Visita il sito del progetto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 414,
+      "translationId": 19944,
+      "text": "Il tuo progetto? 👀"
+    }
+  },
+  {
+    "data": {
+      "stringId": 416,
+      "translationId": 19946,
+      "text": "Crea una pool per il tuo token"
+    }
+  },
+  {
+    "data": {
+      "stringId": 418,
+      "translationId": 19948,
+      "text": "Richiedi ora"
+    }
+  },
+  {
+    "data": {
+      "stringId": 420,
+      "translationId": 19950,
+      "text": "Round 1: ACQUISTA"
+    }
+  },
+  {
+    "data": {
+      "stringId": 422,
+      "translationId": 19952,
+      "text": "VINCI"
+    }
+  },
+  {
+    "data": {
+      "stringId": 424,
+      "translationId": 19954,
+      "text": "%num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 426,
+      "translationId": 19956,
+      "text": "Spendi KEBAB per acquistare i biglietti, contribuendo al piatto della lotteria. L'acquisto dei biglietti termina circa 30 minuti prima della lotteria. Vinci un premio se 2, 3 o 4 dei tuoi numeri sul biglietto corrispondono ai numeri vincenti e alla loro posizione! Buona fortuna!"
+    }
+  },
+  {
+    "data": {
+      "stringId": 428,
+      "translationId": 19958,
+      "text": "I tuoi biglietti totali per questo round"
+    }
+  },
+  {
+    "data": {
+      "stringId": 430,
+      "translationId": 19960,
+      "text": "Compra un biglietto"
+    }
+  },
+  {
+    "data": {
+      "stringId": 432,
+      "translationId": 19962,
+      "text": "Visualizza i tuoi biglietti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 434,
+      "translationId": 19964,
+      "text": "Tempo rimanente circa per acquistare i biglietti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 438,
+      "translationId": 19968,
+      "text": "Chiuso"
+    }
+  },
+  {
+    "data": {
+      "stringId": 440,
+      "translationId": 19970,
+      "text": "Gli ultimi numeri vincenti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 442,
+      "translationId": 19974,
+      "text": "Biglietti nei quali corrispondono 4 numeri:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 444,
+      "translationId": 19976,
+      "text": "Biglietti nei quali corrispondono 3 numeri:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 446,
+      "translationId": 19978,
+      "text": "Biglietti nei quali corrispondono 2 numeri:"
+    }
+  },
+  {
+    "data": {
+      "stringId": 448,
+      "translationId": 19980,
+      "text": "Esporta i numeri vincenti recenti"
+    }
+  },
+  {
+    "data": {
+      "stringId": 450,
+      "translationId": 19982,
+      "text": "Inserisci la quantità di biglietti da acquistare"
+    }
+  },
+  {
+    "data": {
+      "stringId": 452,
+      "translationId": 19984,
+      "text": "Massimo"
+    }
+  },
+  {
+    "data": {
+      "stringId": 454,
+      "translationId": 19986,
+      "text": "%num% KEBAB disponibili"
+    }
+  },
+  {
+    "data": {
+      "stringId": 456,
+      "translationId": 19988,
+      "text": "Il tuo importo deve essere un multiplo di 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 458,
+      "translationId": 19990,
+      "text": "2 biglietti = 10 KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 460,
+      "translationId": 19992,
+      "text": "Spenderai: %num% KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 462,
+      "translationId": 19994,
+      "text": "Cancella"
+    }
+  },
+  {
+    "data": {
+      "stringId": 464,
+      "translationId": 19996,
+      "text": "Conferma"
+    }
+  },
+  {
+    "data": {
+      "stringId": 466,
+      "translationId": 19998,
+      "text": "Warning"
+    }
+  },
+  {
+    "data": {
+      "stringId": 468,
+      "translationId": 20000,
+      "text": "Gli acquisti dei biglietti della lotteria sono definitivi."
+    }
+  },
+  {
+    "data": {
+      "stringId": 470,
+      "translationId": 20002,
+      "text": "I tuoi KEBAB non ti verranno restituiti dopo averli spesi per acquistare i biglietti."
+    }
+  },
+  {
+    "data": {
+      "stringId": 472,
+      "translationId": 20004,
+      "text": "I biglietti sono validi solo per un'estrazione della lotteria e saranno bruciati dopo l'estrazione."
+    }
+  },
+  {
+    "data": {
+      "stringId": 474,
+      "translationId": 20006,
+      "text": "L'acquisto dei biglietti non garantisce che si vinca qualcosa. Si prega di partecipare solo dopo aver compreso i rischi."
+    }
+  },
+  {
+    "data": {
+      "stringId": 476,
+      "translationId": 20008,
+      "text": "Ho compreso"
+    }
+  },
+  {
+    "data": {
+      "stringId": 478,
+      "translationId": 20010,
+      "text": "Gli acquisti dei biglietti sono definitivi. I tuoi KEBAB non potranno essere restituiti dopo l'acquisto dei biglietti."
+    }
+  },
+  {
+    "data": {
+      "stringId": 480,
+      "translationId": 20014,
+      "text": "Richiedi i premi"
+    }
+  },
+  {
+    "data": {
+      "stringId": 482,
+      "translationId": 20016,
+      "text": "I premi KEBAB da richiedere"
+    }
+  },
+  {
+    "data": {
+      "stringId": 484,
+      "translationId": 20018,
+      "text": "Round 2: RICHIEDERE"
+    }
+  },
+  {
+    "data": {
+      "stringId": 486,
+      "translationId": 19934,
+      "text": "Puoi fare unstake in qualsiasi momento."
+    }
+  },
+  {
+    "data": {
+      "stringId": 488,
+      "translationId": 20716,
+      "text": "In attesa di conferma"
+    }
+  },
+  {
+    "data": {
+      "stringId": 490,
+      "translationId": 20710,
+      "text": "I miei biglietti (Totale: %TICKETS%)"
+    }
+  },
+  {
+    "data": {
+      "stringId": 492,
+      "translationId": 20726,
+      "text": "Tempo approssimativo prima dell'inizio della prossima lotteria"
+    }
+  },
+  {
+    "data": {
+      "stringId": 494,
+      "translationId": 20724,
+      "text": "Approva i KEBAB"
+    }
+  },
+  {
+    "data": {
+      "stringId": 496,
+      "translationId": 21110,
+      "text": "I possessori di KETCHUP si suddividono proporzionalmente il 40% delle emissioni del blocco KEBAB ogni giorno (10 KEBAB per blocco), le rewards sono distribuite ad ogni blocco."
+    }
+  }
+]
